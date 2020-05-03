@@ -1,0 +1,1998 @@
+﻿Log file open, 05/03/20 11:48:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: gameJuliaKonarczak
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.202422
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.422s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4200M CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.05.03-09.48.05:365][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.03-09.48.05:365][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.03-09.48.05:390][  0]LogHAL: Display: Platform has ~ 8 GB [8501403648 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.03-09.48.05:390][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2020.05.03-09.48.05:390][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.03-09.48.05:390][  0]LogInit: Computer: DESKTOP-BLCTDO3
+[2020.05.03-09.48.05:391][  0]LogInit: User: Admin
+[2020.05.03-09.48.05:391][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.05.03-09.48.05:391][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.03-09.48.05:391][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.05.03-09.48.05:391][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.03-09.48.05:391][  0]LogMemory: Process Physical Memory: 99.66 MB used, 99.66 MB peak
+[2020.05.03-09.48.05:391][  0]LogMemory: Process Virtual Memory: 82.69 MB used, 82.69 MB peak
+[2020.05.03-09.48.05:391][  0]LogMemory: Physical Memory: 3830.49 MB used,  4277.08 MB free, 8107.57 MB total
+[2020.05.03-09.48.05:391][  0]LogMemory: Virtual Memory: 4588.76 MB used,  4277.08 MB free, 134217728.00 MB total
+[2020.05.03-09.48.05:432][  0]LogInit: Using OS detected language (pl-PL).
+[2020.05.03-09.48.05:432][  0]LogInit: Using OS detected locale (pl-PL).
+[2020.05.03-09.48.05:436][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2020.05.03-09.48.05:442][  0]LogStreaming: Display: Took  0.010s to InitEngineTextLocalization.
+[2020.05.03-09.48.05:442][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.03-09.48.05:513][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.03-09.48.05:513][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.03-09.48.06:130][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.03-09.48.06:130][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.03-09.48.06:146][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2020.05.03-09.48.06:146][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.05.03-09.48.06:152][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.03-09.48.06:152][  0]LogD3D11RHI:       0/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.03-09.48.06:152][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.03-09.48.06:161][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.03-09.48.06:162][  0]LogD3D11RHI:     GPU DeviceId: 0x416 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.03-09.48.06:162][  0]LogWindows: EnumDisplayDevices:
+[2020.05.03-09.48.06:162][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2020.05.03-09.48.06:163][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.05.03-09.48.06:164][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.05.03-09.48.06:165][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.05.03-09.48.06:165][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 4600
+[2020.05.03-09.48.06:165][  0]LogD3D11RHI:   Driver Version: 20.19.15.4531 (internal:20.19.15.4531, unified:20.19.15.4531)
+[2020.05.03-09.48.06:165][  0]LogD3D11RHI:      Driver Date: 9-29-2016
+[2020.05.03-09.48.06:165][  0]LogRHI: Texture pool is 795 MB (70% of 1136 MB)
+[2020.05.03-09.48.06:176][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.03-09.48.06:186][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2020.05.03-09.48.06:189][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Intermediate/Shaders/WorkingDirectory/11176/).
+[2020.05.03-09.48.06:189][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Admin/AppData/Local/Temp/UnrealShaderWorkingDir/CBCBE3954822C9010605928FFEFB16A4/'.
+[2020.05.03-09.48.06:738][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.05.03-09.48.06:761][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.05.03-09.48.06:784][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.05.03-09.48.06:807][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.05.03-09.48.06:827][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.05.03-09.48.06:847][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.05.03-09.48.06:868][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.05.03-09.48.06:888][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.05.03-09.48.06:900][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.05.03-09.48.07:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-09.48.07:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-09.48.07:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-09.48.07:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-09.48.07:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-09.48.07:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-09.48.07:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-09.48.07:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-09.48.07:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-09.48.07:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-09.48.07:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-09.48.07:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-09.48.07:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-09.48.07:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-09.48.07:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-09.48.07:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-09.48.07:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-09.48.07:011][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.03-09.48.07:014][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.05.03-09.48.07:093][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.05.03-09.48.07:093][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.05.03-09.48.07:162][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.05.03-09.48.07:162][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.05.03-09.48.07:184][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.05.03-09.48.07:201][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.05.03-09.48.07:219][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.05.03-09.48.07:237][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.05.03-09.48.07:249][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.05.03-09.48.07:249][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.03-09.48.07:376][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.03-09.48.07:376][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.03-09.48.07:376][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.03-09.48.08:785][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.03-09.48.08:847][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Admin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.05.03-09.48.08:847][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Admin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2020.05.03-09.48.08:847][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.03-09.48.08:847][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.03-09.48.08:847][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.03-09.48.08:847][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.03-09.48.08:866][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.03-09.48.08:879][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.03-09.48.08:879][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.03-09.48.08:879][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.03-09.48.08:900][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.03-09.48.08:902][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.03-09.48.08:903][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.03-09.48.09:011][  0]LogAssetRegistry: FAssetRegistry took 0.0279 seconds to start up
+[2020.05.03-09.48.09:538][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.03-09.48.09:727][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.05.03-09.48.09:735][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.05.03-09.48.09:735][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.03-09.48.09:735][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.03-09.48.09:735][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.05.03-09.48.09:755][  0]LogNetVersion: gameJuliaKonarczak 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2658559661)
+[2020.05.03-09.48.10:524][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.178501 seconds
+[2020.05.03-09.48.10:537][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2020.05.03-09.48.10:537][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2020.05.03-09.48.10:537][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.03-09.48.12:131][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.03-09.48.12:145][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.03-09.48.12:357][  0]SourceControl: Source control is disabled
+[2020.05.03-09.48.12:357][  0]SourceControl: Source control is disabled
+[2020.05.03-09.48.12:359][  0]SourceControl: Source control is disabled
+[2020.05.03-09.48.12:361][  0]SourceControl: Source control is disabled
+[2020.05.03-09.48.12:612][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.03-09.48.12:713][  0]LogOcInput: OculusInput pre-init called
+[2020.05.03-09.48.12:817][  0]LogEngine: Initializing Engine...
+[2020.05.03-09.48.12:819][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.03-09.48.12:820][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.05.03-09.48.12:820][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.05.03-09.48.12:821][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.05.03-09.48.12:821][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.05.03-09.48.13:178][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.03-09.48.13:220][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.03-09.48.13:234][  0]LogInit: XAudio2 using 'Głośnik/Słuchawki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.03-09.48.13:315][  0]LogInit: FAudioDevice initialized.
+[2020.05.03-09.48.13:315][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.03-09.48.13:560][  0]LogDerivedDataCache: Saved boot cache 0.24s 71MB C:/Users/Admin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.05.03-09.48.13:560][  0]LogInit: Texture streaming: Enabled
+[2020.05.03-09.48.13:618][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.03-09.48.13:652][  0]LogInit: Transaction tracking system initialized
+[2020.05.03-09.48.13:726][  0]BlueprintLog: New page: Editor Load
+[2020.05.03-09.48.13:981][  0]LocalizationService: Localization service is disabled
+[2020.05.03-09.48.14:571][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.03-09.48.14:571][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.03-09.48.14:571][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.05.03-09.48.14:572][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.05.03-09.48.14:572][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.05.03-09.48.14:572][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.05.03-09.48.14:572][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.05.03-09.48.14:807][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/' took 0.02s
+[2020.05.03-09.48.14:807][  0]SourceControl: Source control is disabled
+[2020.05.03-09.48.14:807][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.03-09.48.14:824][  0]LightingResults: New page: Lighting Build
+[2020.05.03-09.48.14:830][  0]MapCheck: New page: Map Check
+[2020.05.03-09.48.14:830][  0]LightingResults: New page: Lighting Build
+[2020.05.03-09.48.17:225][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.05.03-09.48.17:312][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.03-09.48.17:359][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.03-09.48.17:557][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 198,348ms to complete.
+[2020.05.03-09.48.17:557][  0]LogFileHelpers: Loading map 'Minimal_Default' took 2.749
+[2020.05.03-09.48.18:166][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-09.48.18:194][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-09.48.18:207][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-09.48.18:218][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-09.48.18:300][  0]LogCollectionManager: Loaded 0 collections in 0.008497 seconds
+[2020.05.03-09.48.18:633][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Collections/' took 0.01s
+[2020.05.03-09.48.18:633][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Developers/Admin/Collections/' took 0.01s
+[2020.05.03-09.48.18:633][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Collections/' took 0.01s
+[2020.05.03-09.48.18:633][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.05.03-09.48.18:726][  0]LogContentBrowser: Native class hierarchy populated in 0.0734 seconds. Added 2572 classes and 603 folders.
+[2020.05.03-09.48.18:819][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.03-09.48.20:191][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.05.03-09.48.20:291][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2020.05.03-09.48.21:889][  0]LogSlate: Took 0.000459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.03-09.48.21:895][  0]LogSlate: Took 0.000464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.03-09.48.21:916][  0]LogSlate: Took 0.009186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.03-09.48.22:182][  0]LogRenderer: Reallocating scene render targets to support 1096x456 Format 10 NumSamples 1 (Frame:1).
+[2020.05.03-09.48.23:346][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.03-09.48.23:346][  0]LogLoad: (Engine Initialization) Total time: 21.80 seconds
+[2020.05.03-09.48.23:346][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.03-09.48.23:426][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.03-09.48.23:539][  0]LogSlate: Took 0.054842 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.03-09.48.24:449][  3]LogAssetRegistry: Asset discovery search completed in 15.4610 seconds
+[2020.05.03-09.48.24:452][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.05.03-09.48.24:452][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000100 seconds (updated 0 objects)
+[2020.05.03-09.48.30:609][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.03-09.48.30:756][157]LogSlate: Took 0.000406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.03-09.48.30:903][157]LogAIModule: Creating AISystem for world Untitled
+[2020.05.03-09.48.30:914][157]LogAssetEditorManager: Opening Asset editor for World /Game/Untitled.Untitled
+[2020.05.03-09.48.30:952][157]Cmd: MAP LOAD FILE="../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.03-09.48.30:953][157]LightingResults: New page: Lighting Build
+[2020.05.03-09.48.30:953][157]LoadErrors: New page: Loading map: Untitled.umap
+[2020.05.03-09.48.30:954][157]MapCheck: New page: Map Check
+[2020.05.03-09.48.30:954][157]LightingResults: New page: Lighting Build
+[2020.05.03-09.48.31:073][157]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.03-09.48.31:110][157]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.03-09.48.31:302][157]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 192,202ms to complete.
+[2020.05.03-09.48.31:302][157]LogFileHelpers: Loading map 'Untitled' took 0.350
+[2020.05.03-09.48.41:686][484]LogMetaData: Removing '/Game/Game.Game_C' ref from Metadata '/Game/Untitled.PackageMetaData'
+[2020.05.03-09.48.41:687][484]LogMetaData: Removing '/Game/Game.Game:PersistentLevel.Game.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Untitled.PackageMetaData'
+[2020.05.03-09.48.41:687][484]LogMetaData: Removing '/Game/Game.Game:PersistentLevel.Game.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Untitled.PackageMetaData'
+[2020.05.03-09.48.41:687][484]LogMetaData: Removing '/Game/Game.SKEL_Game_C' ref from Metadata '/Game/Untitled.PackageMetaData'
+[2020.05.03-09.48.41:721][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_BuiltData" FILE="../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game_BuiltData.uasset" SILENT=true
+[2020.05.03-09.48.41:750][484]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Game_BuiltData4DC08EBF49DF18365B4551AA0AA571AA.tmp' to '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game_BuiltData.uasset'
+[2020.05.03-09.48.41:953][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.03-09.48.42:151][484]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/GameDAFED746434E5DBF2E1CD08F04B2A6DC.tmp' to '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game.umap'
+[2020.05.03-09.48.42:191][484]LogFileHelpers: Saving map 'Game' took 0.425
+[2020.05.03-09.48.50:241][680]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.03-09.48.50:435][680]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2020.05.03-09.49.09:182][ 64]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2020.05.03-09.49.12:120][109]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.03-09.49.14:328][155]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.03-09.49.14:382][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-09.49.14:382][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.03-09.49.14:435][155]PIE: New page: PIE session: Game (3 maj 2020, 13:49:14)
+[2020.05.03-09.49.14:435][155]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2020.05.03-09.49.14:452][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017201s)
+[2020.05.03-09.49.14:455][155]LogAIModule: Creating AISystem for world Game
+[2020.05.03-09.49.14:456][155]LogPlayLevel: PIE: World Init took: (0.003365s)
+[2020.05.03-09.49.14:464][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.028562s)
+[2020.05.03-09.49.14:561][155]LogInit: XAudio2 using 'Głośnik/Słuchawki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.03-09.49.14:645][155]LogInit: FAudioDevice initialized.
+[2020.05.03-09.49.14:700][155]LogLoad: Game class is 'GameModeBase'
+[2020.05.03-09.49.14:704][155]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2020.05.03-11.49.14
+[2020.05.03-09.49.14:705][155]LogWorld: Bringing up level for play took: 0.002127
+[2020.05.03-09.49.14:796][155]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 10 classes and 0 folders.
+[2020.05.03-09.49.14:798][155]PIE: Play in editor start time for /Game/UEDPIE_0_Game -0,116
+[2020.05.03-09.49.14:798][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-09.49.38:709][904]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.03-09.49.40:264][953]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-09.49.40:280][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-09.49.40:324][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.03-09.49.40:324][953]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-09.49.40:351][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-09.49.40:370][954]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.05.03-09.49.49:127][215]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Game.Game:PersistentLevel.Game
+[2020.05.03-09.49.50:392][215]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 116 classes and 0 folders.
+[2020.05.03-09.49.52:407][215]LogSlate: Took 0.013348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.03-09.49.52:795][216]LogSlate: Took 0.016545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.03-09.50.45:753][686]LogActorFactory: Actor Factory created Shape_Sphere
+[2020.05.03-09.50.47:177][718]LogActorFactory: Actor Factory created Shape_Sphere
+[2020.05.03-09.51.05:186][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.03-09.51.07:310][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Sphere)
+[2020.05.03-09.51.09:193][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.03-09.51.31:019][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Sphere)
+[2020.05.03-09.51.45:206][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.03-09.52.51:290][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.03-09.53.00:110][ 74]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.05.03-09.53.02:517][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.03-09.53.57:334][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.05.03-09.54.01:964][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.03-09.54.18:145][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.03-09.54.18:360][570]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Game05BE7E2A46F1C2BD98045C81C2CCB1A0.tmp' to '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game.umap'
+[2020.05.03-09.54.18:388][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_BuiltData" FILE="../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game_BuiltData.uasset" SILENT=true
+[2020.05.03-09.54.18:411][570]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Game_BuiltData33E5C2144E8AAD6A1228018A07A375AF.tmp' to '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game_BuiltData.uasset'
+[2020.05.03-09.54.20:770][632]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.03-09.54.20:782][632]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-09.54.20:783][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.03-09.54.20:783][632]PIE: New page: PIE session: Game (3 maj 2020, 13:54:20)
+[2020.05.03-09.54.20:783][632]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2020.05.03-09.54.20:786][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002971s)
+[2020.05.03-09.54.20:787][632]LogAIModule: Creating AISystem for world Game
+[2020.05.03-09.54.20:787][632]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2020.05.03-09.54.20:787][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.004024s)
+[2020.05.03-09.54.20:823][632]LogInit: XAudio2 using 'Głośnik/Słuchawki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.03-09.54.20:856][632]LogInit: FAudioDevice initialized.
+[2020.05.03-09.54.20:894][632]LogLoad: Game class is 'GameModeBase'
+[2020.05.03-09.54.20:895][632]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2020.05.03-11.54.20
+[2020.05.03-09.54.20:896][632]LogWorld: Bringing up level for play took: 0.000774
+[2020.05.03-09.54.20:909][632]PIE: Play in editor start time for /Game/UEDPIE_0_Game -0,004
+[2020.05.03-09.54.20:910][632]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-09.54.42:735][333]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.03-09.55.04:569][502]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-09.55.04:569][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-09.55.04:605][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.03-09.55.04:605][502]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-09.55.04:641][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-09.55.04:671][504]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.05.03-09.55.16:565][812]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.03-09.55.16:566][812]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2020.05.03-09.55.16:566][812]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.03-09.55.16:566][812]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2020.05.03-09.55.16:566][812]LogUObjectGlobals: Warning: Failed to find object 'Blueprint Engine/Tutorial/Installation/InstallingVisualStudioTutorial.InstallingVisualStudioTutorial'
+[2020.05.03-09.55.51:910][445]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.03-09.56.14:450][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.03-09.56.14:645][182]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/GameE17E9BB04C4A121E016B39B650E41BCD.tmp' to '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game.umap'
+[2020.05.03-09.56.14:672][182]LogFileHelpers: Saving map 'Game' took 0.434
+[2020.05.03-09.56.22:188][356]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.03-09.56.22:199][356]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-09.56.22:200][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.03-09.56.22:200][356]PIE: New page: PIE session: Game (3 maj 2020, 13:56:22)
+[2020.05.03-09.56.22:200][356]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2020.05.03-09.56.22:203][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003261s)
+[2020.05.03-09.56.22:204][356]LogAIModule: Creating AISystem for world Game
+[2020.05.03-09.56.22:204][356]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2020.05.03-09.56.22:204][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.004289s)
+[2020.05.03-09.56.22:240][356]LogInit: XAudio2 using 'Głośnik/Słuchawki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.03-09.56.22:275][356]LogInit: FAudioDevice initialized.
+[2020.05.03-09.56.22:310][356]LogLoad: Game class is 'GameModeBase'
+[2020.05.03-09.56.22:311][356]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2020.05.03-11.56.22
+[2020.05.03-09.56.22:311][356]LogWorld: Bringing up level for play took: 0.000890
+[2020.05.03-09.56.22:324][356]PIE: Play in editor start time for /Game/UEDPIE_0_Game -0,59
+[2020.05.03-09.56.22:325][356]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-09.56.42:569][ 20]Set new viewmode: Unlit
+[2020.05.03-09.56.46:477][253]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.03-09.56.48:145][353]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-09.56.48:145][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-09.56.48:186][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.03-09.56.48:186][353]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-09.56.48:222][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-09.56.48:252][355]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.05.03-09.59.22:480][745]LogSlate: Took 0.018663 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.05.03-09.59.29:748][899]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.05.03-10.00.47:999][979]Cmd: TRANSACTION UNDO
+[2020.05.03-10.00.47:999][979]LogEditorTransaction: Undo Create Pin Link
+[2020.05.03-10.00.51:689][147]Cmd: TRANSACTION UNDO
+[2020.05.03-10.00.51:690][147]LogEditorTransaction: Undo Create Pin Link
+[2020.05.03-10.00.54:527][289]Cmd: TRANSACTION UNDO
+[2020.05.03-10.00.54:527][289]LogEditorTransaction: Undo Change Parameter Type
+[2020.05.03-10.00.57:063][370]Cmd: TRANSACTION UNDO
+[2020.05.03-10.00.57:063][370]LogEditorTransaction: Undo Promote To Variable
+[2020.05.03-10.06.57:070][271]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Game_Auto1A970A6944291786E4275569855CDA811.tmp' to '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Autosaves/Game/Game_Auto1.umap'
+[2020.05.03-10.06.57:077][271]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game' took 0.242
+[2020.05.03-10.06.57:077][271]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.242
+[2020.05.03-10.08.19:294][695]BlueprintLog: New page: Compile Game
+[2020.05.03-10.08.20:561][720]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.03-10.08.22:706][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.03-10.08.26:742][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.03-10.08.26:893][863]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.03-10.08.26:905][863]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.08.26:905][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.03-10.08.26:905][863]PIE: New page: PIE session: Game (3 maj 2020, 14:08:26)
+[2020.05.03-10.08.26:905][863]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2020.05.03-10.08.26:909][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003190s)
+[2020.05.03-10.08.26:910][863]LogAIModule: Creating AISystem for world Game
+[2020.05.03-10.08.26:910][863]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2020.05.03-10.08.26:910][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.004471s)
+[2020.05.03-10.08.26:948][863]LogInit: XAudio2 using 'Głośnik/Słuchawki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.03-10.08.26:983][863]LogInit: FAudioDevice initialized.
+[2020.05.03-10.08.27:015][863]LogLoad: Game class is 'GameModeBase'
+[2020.05.03-10.08.27:016][863]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2020.05.03-12.08.27
+[2020.05.03-10.08.27:016][863]LogWorld: Bringing up level for play took: 0.000882
+[2020.05.03-10.08.27:031][863]PIE: Play in editor start time for /Game/UEDPIE_0_Game 0,117
+[2020.05.03-10.08.27:032][863]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.08.27:053][863]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:186][864]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:207][865]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:237][866]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:269][867]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:301][868]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:334][869]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:365][870]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:397][871]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:428][872]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:458][873]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:490][874]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:521][875]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:551][876]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:583][877]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:613][878]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:644][879]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:676][880]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:706][881]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:737][882]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:769][883]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:801][884]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:831][885]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:862][886]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:893][887]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:924][888]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:957][889]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.27:988][890]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:018][891]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:049][892]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:079][893]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:110][894]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:141][895]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:172][896]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:203][897]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:234][898]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:265][899]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:297][900]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:329][901]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:359][902]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:392][903]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:423][904]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:453][905]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:485][906]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:516][907]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:547][908]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:579][909]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:609][910]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:640][911]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:672][912]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:703][913]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:733][914]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:764][915]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:796][916]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:827][917]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:858][918]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:889][919]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:920][920]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:952][921]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.28:983][922]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:014][923]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:044][924]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:075][925]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:107][926]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:139][927]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:168][928]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:199][929]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:230][930]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:261][931]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:293][932]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:324][933]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:354][934]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:385][935]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:416][936]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:446][937]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:477][938]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:508][939]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:539][940]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:569][941]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:601][942]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:632][943]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:664][944]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:697][945]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:728][946]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:760][947]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:794][948]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:826][949]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:857][950]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:887][951]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:920][952]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:952][953]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.29:987][954]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:015][955]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:046][956]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:076][957]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:106][958]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:137][959]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:169][960]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:202][961]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:232][962]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:263][963]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:295][964]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:324][965]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:355][966]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:392][967]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:417][968]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:450][969]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:480][970]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:511][971]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:542][972]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:573][973]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:609][974]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:635][975]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:667][976]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:698][977]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:729][978]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:763][979]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:790][980]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:822][981]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:852][982]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:883][983]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:914][984]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:945][985]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.30:980][986]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:008][987]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:038][988]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:069][989]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:100][990]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:131][991]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:162][992]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:192][993]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:222][994]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:256][995]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:315][996]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:331][997]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:348][998]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:376][999]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:407][  0]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:437][  1]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:468][  2]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:498][  3]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:529][  4]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:560][  5]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:591][  6]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:622][  7]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:652][  8]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:683][  9]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:713][ 10]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:744][ 11]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:777][ 12]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:806][ 13]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:836][ 14]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:867][ 15]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:898][ 16]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:929][ 17]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:959][ 18]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.31:989][ 19]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.32:019][ 20]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.32:050][ 21]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.32:081][ 22]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.32:112][ 23]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.32:142][ 24]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.32:173][ 25]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.32:203][ 26]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.32:234][ 27]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.32:265][ 28]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.32:296][ 29]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.32:326][ 30]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.32:357][ 31]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.32:387][ 32]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.32:420][ 33]LogBlueprintUserMessages: [Game_C_5] -0.629937
+[2020.05.03-10.08.32:451][ 34]LogBlueprintUserMessages: [Game_C_5] -1.653724
+[2020.05.03-10.08.32:482][ 35]LogBlueprintUserMessages: [Game_C_5] -1.620736
+[2020.05.03-10.08.32:515][ 36]LogBlueprintUserMessages: [Game_C_5] -0.65782
+[2020.05.03-10.08.32:547][ 37]LogBlueprintUserMessages: [Game_C_5] -1.083885
+[2020.05.03-10.08.32:578][ 38]LogBlueprintUserMessages: [Game_C_5] -0.354171
+[2020.05.03-10.08.32:608][ 39]LogBlueprintUserMessages: [Game_C_5] 0.328445
+[2020.05.03-10.08.32:640][ 40]LogBlueprintUserMessages: [Game_C_5] 0.988568
+[2020.05.03-10.08.32:671][ 41]LogBlueprintUserMessages: [Game_C_5] 0.668176
+[2020.05.03-10.08.32:702][ 42]LogBlueprintUserMessages: [Game_C_5] 0.675664
+[2020.05.03-10.08.32:733][ 43]LogBlueprintUserMessages: [Game_C_5] 0.473297
+[2020.05.03-10.08.32:764][ 44]LogBlueprintUserMessages: [Game_C_5] 0.611461
+[2020.05.03-10.08.32:795][ 45]LogBlueprintUserMessages: [Game_C_5] 0.175118
+[2020.05.03-10.08.32:825][ 46]LogBlueprintUserMessages: [Game_C_5] 0.134563
+[2020.05.03-10.08.32:856][ 47]LogBlueprintUserMessages: [Game_C_5] 0.400929
+[2020.05.03-10.08.32:886][ 48]LogBlueprintUserMessages: [Game_C_5] 0.176606
+[2020.05.03-10.08.32:919][ 49]LogBlueprintUserMessages: [Game_C_5] 0.467363
+[2020.05.03-10.08.32:949][ 50]LogBlueprintUserMessages: [Game_C_5] 0.53834
+[2020.05.03-10.08.32:981][ 51]LogBlueprintUserMessages: [Game_C_5] 0.333251
+[2020.05.03-10.08.33:011][ 52]LogBlueprintUserMessages: [Game_C_5] -0.088015
+[2020.05.03-10.08.33:042][ 53]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.33:073][ 54]LogBlueprintUserMessages: [Game_C_5] -0.419958
+[2020.05.03-10.08.33:104][ 55]LogBlueprintUserMessages: [Game_C_5] -0.472029
+[2020.05.03-10.08.33:133][ 56]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.33:165][ 57]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.33:197][ 58]LogBlueprintUserMessages: [Game_C_5] 0.069993
+[2020.05.03-10.08.33:226][ 59]LogBlueprintUserMessages: [Game_C_5] 0.066158
+[2020.05.03-10.08.33:256][ 60]LogBlueprintUserMessages: [Game_C_5] -0.263747
+[2020.05.03-10.08.33:288][ 61]LogBlueprintUserMessages: [Game_C_5] -0.264736
+[2020.05.03-10.08.33:318][ 62]LogBlueprintUserMessages: [Game_C_5] -0.53335
+[2020.05.03-10.08.33:348][ 63]LogBlueprintUserMessages: [Game_C_5] -1.119043
+[2020.05.03-10.08.33:380][ 64]LogBlueprintUserMessages: [Game_C_5] -1.595834
+[2020.05.03-10.08.33:410][ 65]LogBlueprintUserMessages: [Game_C_5] -1.687537
+[2020.05.03-10.08.33:442][ 66]LogBlueprintUserMessages: [Game_C_5] -2.387165
+[2020.05.03-10.08.33:472][ 67]LogBlueprintUserMessages: [Game_C_5] -2.579605
+[2020.05.03-10.08.33:503][ 68]LogBlueprintUserMessages: [Game_C_5] -2.169033
+[2020.05.03-10.08.33:534][ 69]LogBlueprintUserMessages: [Game_C_5] -1.978445
+[2020.05.03-10.08.33:565][ 70]LogBlueprintUserMessages: [Game_C_5] -1.484355
+[2020.05.03-10.08.33:596][ 71]LogBlueprintUserMessages: [Game_C_5] -0.539205
+[2020.05.03-10.08.33:628][ 72]LogBlueprintUserMessages: [Game_C_5] -0.201062
+[2020.05.03-10.08.33:658][ 73]LogBlueprintUserMessages: [Game_C_5] 0.200283
+[2020.05.03-10.08.33:689][ 74]LogBlueprintUserMessages: [Game_C_5] 1.089382
+[2020.05.03-10.08.33:720][ 75]LogBlueprintUserMessages: [Game_C_5] 1.717336
+[2020.05.03-10.08.33:752][ 76]LogBlueprintUserMessages: [Game_C_5] 2.234909
+[2020.05.03-10.08.33:783][ 77]LogBlueprintUserMessages: [Game_C_5] 3.00218
+[2020.05.03-10.08.33:814][ 78]LogBlueprintUserMessages: [Game_C_5] 2.528661
+[2020.05.03-10.08.33:845][ 79]LogBlueprintUserMessages: [Game_C_5] 2.282373
+[2020.05.03-10.08.33:876][ 80]LogBlueprintUserMessages: [Game_C_5] 1.025658
+[2020.05.03-10.08.33:907][ 81]LogBlueprintUserMessages: [Game_C_5] 0.356506
+[2020.05.03-10.08.33:936][ 82]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.33:967][ 83]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.33:998][ 84]LogBlueprintUserMessages: [Game_C_5] 0.069993
+[2020.05.03-10.08.34:029][ 85]LogBlueprintUserMessages: [Game_C_5] 0.209979
+[2020.05.03-10.08.34:059][ 86]LogBlueprintUserMessages: [Game_C_5] 0.069993
+[2020.05.03-10.08.34:089][ 87]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.34:120][ 88]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.34:151][ 89]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.34:182][ 90]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.34:212][ 91]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.34:242][ 92]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.34:273][ 93]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.34:304][ 94]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.34:335][ 95]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.34:366][ 96]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.34:396][ 97]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.34:427][ 98]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.34:457][ 99]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.34:487][100]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.34:518][101]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.34:549][102]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.34:579][103]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.34:610][104]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.34:641][105]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.34:672][106]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.34:703][107]LogBlueprintUserMessages: [Game_C_5] -0.139986
+[2020.05.03-10.08.34:735][108]LogBlueprintUserMessages: [Game_C_5] -0.337281
+[2020.05.03-10.08.34:766][109]LogBlueprintUserMessages: [Game_C_5] -0.543233
+[2020.05.03-10.08.34:797][110]LogBlueprintUserMessages: [Game_C_5] -0.400727
+[2020.05.03-10.08.34:827][111]LogBlueprintUserMessages: [Game_C_5] -0.069993
+[2020.05.03-10.08.34:857][112]LogBlueprintUserMessages: [Game_C_5] -0.069993
+[2020.05.03-10.08.34:888][113]LogBlueprintUserMessages: [Game_C_5] -0.19953
+[2020.05.03-10.08.34:920][114]LogBlueprintUserMessages: [Game_C_5] -0.40701
+[2020.05.03-10.08.34:951][115]LogBlueprintUserMessages: [Game_C_5] -0.542623
+[2020.05.03-10.08.34:982][116]LogBlueprintUserMessages: [Game_C_5] -0.669536
+[2020.05.03-10.08.35:013][117]LogBlueprintUserMessages: [Game_C_5] -1.078296
+[2020.05.03-10.08.35:043][118]LogBlueprintUserMessages: [Game_C_5] -1.282089
+[2020.05.03-10.08.35:073][119]LogBlueprintUserMessages: [Game_C_5] -1.262463
+[2020.05.03-10.08.35:105][120]LogBlueprintUserMessages: [Game_C_5] -0.673163
+[2020.05.03-10.08.35:136][121]LogBlueprintUserMessages: [Game_C_5] -0.542266
+[2020.05.03-10.08.35:167][122]LogBlueprintUserMessages: [Game_C_5] -0.551402
+[2020.05.03-10.08.35:197][123]LogBlueprintUserMessages: [Game_C_5] -0.535957
+[2020.05.03-10.08.35:229][124]LogBlueprintUserMessages: [Game_C_5] -0.534094
+[2020.05.03-10.08.35:259][125]LogBlueprintUserMessages: [Game_C_5] -0.670233
+[2020.05.03-10.08.35:289][126]LogBlueprintUserMessages: [Game_C_5] -0.669287
+[2020.05.03-10.08.35:321][127]LogBlueprintUserMessages: [Game_C_5] -0.610002
+[2020.05.03-10.08.35:352][128]LogBlueprintUserMessages: [Game_C_5] -0.548811
+[2020.05.03-10.08.35:383][129]LogBlueprintUserMessages: [Game_C_5] -0.475564
+[2020.05.03-10.08.35:414][130]LogBlueprintUserMessages: [Game_C_5] -0.407577
+[2020.05.03-10.08.35:445][131]LogBlueprintUserMessages: [Game_C_5] -0.543035
+[2020.05.03-10.08.35:476][132]LogBlueprintUserMessages: [Game_C_5] -0.541788
+[2020.05.03-10.08.35:507][133]LogBlueprintUserMessages: [Game_C_5] -0.610186
+[2020.05.03-10.08.35:538][134]LogBlueprintUserMessages: [Game_C_5] -0.541973
+[2020.05.03-10.08.35:569][135]LogBlueprintUserMessages: [Game_C_5] -0.633092
+[2020.05.03-10.08.35:600][136]LogBlueprintUserMessages: [Game_C_5] -0.541987
+[2020.05.03-10.08.35:631][137]LogBlueprintUserMessages: [Game_C_5] -0.545064
+[2020.05.03-10.08.35:662][138]LogBlueprintUserMessages: [Game_C_5] -0.679949
+[2020.05.03-10.08.35:693][139]LogBlueprintUserMessages: [Game_C_5] -0.538824
+[2020.05.03-10.08.35:723][140]LogBlueprintUserMessages: [Game_C_5] -0.683596
+[2020.05.03-10.08.35:754][141]LogBlueprintUserMessages: [Game_C_5] -0.879348
+[2020.05.03-10.08.35:785][142]LogBlueprintUserMessages: [Game_C_5] -1.365612
+[2020.05.03-10.08.35:817][143]LogBlueprintUserMessages: [Game_C_5] -1.645653
+[2020.05.03-10.08.35:848][144]LogBlueprintUserMessages: [Game_C_5] -1.158038
+[2020.05.03-10.08.35:879][145]LogBlueprintUserMessages: [Game_C_5] -0.337104
+[2020.05.03-10.08.35:909][146]LogBlueprintUserMessages: [Game_C_5] 0.180556
+[2020.05.03-10.08.35:941][147]LogBlueprintUserMessages: [Game_C_5] 1.377213
+[2020.05.03-10.08.35:972][148]LogBlueprintUserMessages: [Game_C_5] 2.659634
+[2020.05.03-10.08.36:003][149]LogBlueprintUserMessages: [Game_C_5] 3.608032
+[2020.05.03-10.08.36:033][150]LogBlueprintUserMessages: [Game_C_5] 2.520481
+[2020.05.03-10.08.36:064][151]LogBlueprintUserMessages: [Game_C_5] 1.851441
+[2020.05.03-10.08.36:095][152]LogBlueprintUserMessages: [Game_C_5] 1.825007
+[2020.05.03-10.08.36:126][153]LogBlueprintUserMessages: [Game_C_5] 1.159609
+[2020.05.03-10.08.36:157][154]LogBlueprintUserMessages: [Game_C_5] 0.543915
+[2020.05.03-10.08.36:187][155]LogBlueprintUserMessages: [Game_C_5] 0.805875
+[2020.05.03-10.08.36:218][156]LogBlueprintUserMessages: [Game_C_5] 1.282183
+[2020.05.03-10.08.36:248][157]LogBlueprintUserMessages: [Game_C_5] 1.697572
+[2020.05.03-10.08.36:279][158]LogBlueprintUserMessages: [Game_C_5] 1.998659
+[2020.05.03-10.08.36:310][159]LogBlueprintUserMessages: [Game_C_5] 1.683571
+[2020.05.03-10.08.36:340][160]LogBlueprintUserMessages: [Game_C_5] 1.640089
+[2020.05.03-10.08.36:372][161]LogBlueprintUserMessages: [Game_C_5] 1.37248
+[2020.05.03-10.08.36:403][162]LogBlueprintUserMessages: [Game_C_5] 0.546829
+[2020.05.03-10.08.36:434][163]LogBlueprintUserMessages: [Game_C_5] -0.068069
+[2020.05.03-10.08.36:464][164]LogBlueprintUserMessages: [Game_C_5] -0.273237
+[2020.05.03-10.08.36:496][165]LogBlueprintUserMessages: [Game_C_5] -0.611802
+[2020.05.03-10.08.36:526][166]LogBlueprintUserMessages: [Game_C_5] -0.549822
+[2020.05.03-10.08.36:558][167]LogBlueprintUserMessages: [Game_C_5] -0.952838
+[2020.05.03-10.08.36:588][168]LogBlueprintUserMessages: [Game_C_5] -1.480413
+[2020.05.03-10.08.36:619][169]LogBlueprintUserMessages: [Game_C_5] -1.633532
+[2020.05.03-10.08.36:650][170]LogBlueprintUserMessages: [Game_C_5] -1.760786
+[2020.05.03-10.08.36:681][171]LogBlueprintUserMessages: [Game_C_5] -1.687757
+[2020.05.03-10.08.36:712][172]LogBlueprintUserMessages: [Game_C_5] -1.902123
+[2020.05.03-10.08.36:743][173]LogBlueprintUserMessages: [Game_C_5] -1.911181
+[2020.05.03-10.08.36:773][174]LogBlueprintUserMessages: [Game_C_5] -2.568264
+[2020.05.03-10.08.36:803][175]LogBlueprintUserMessages: [Game_C_5] -3.140791
+[2020.05.03-10.08.36:835][176]LogBlueprintUserMessages: [Game_C_5] -3.655091
+[2020.05.03-10.08.36:866][177]LogBlueprintUserMessages: [Game_C_5] -4.289785
+[2020.05.03-10.08.36:898][178]LogBlueprintUserMessages: [Game_C_5] -4.022509
+[2020.05.03-10.08.36:929][179]LogBlueprintUserMessages: [Game_C_5] -3.086881
+[2020.05.03-10.08.36:959][180]LogBlueprintUserMessages: [Game_C_5] -2.495687
+[2020.05.03-10.08.36:990][181]LogBlueprintUserMessages: [Game_C_5] -2.585629
+[2020.05.03-10.08.37:021][182]LogBlueprintUserMessages: [Game_C_5] -1.995232
+[2020.05.03-10.08.37:052][183]LogBlueprintUserMessages: [Game_C_5] -1.229414
+[2020.05.03-10.08.37:083][184]LogBlueprintUserMessages: [Game_C_5] -0.274185
+[2020.05.03-10.08.37:113][185]LogBlueprintUserMessages: [Game_C_5] 0.274771
+[2020.05.03-10.08.37:144][186]LogBlueprintUserMessages: [Game_C_5] 1.345443
+[2020.05.03-10.08.37:175][187]LogBlueprintUserMessages: [Game_C_5] 2.18923
+[2020.05.03-10.08.37:206][188]LogBlueprintUserMessages: [Game_C_5] 3.560934
+[2020.05.03-10.08.37:237][189]LogBlueprintUserMessages: [Game_C_5] 4.892046
+[2020.05.03-10.08.37:268][190]LogBlueprintUserMessages: [Game_C_5] 5.779595
+[2020.05.03-10.08.37:298][191]LogBlueprintUserMessages: [Game_C_5] 6.10763
+[2020.05.03-10.08.37:330][192]LogBlueprintUserMessages: [Game_C_5] 5.659116
+[2020.05.03-10.08.37:361][193]LogBlueprintUserMessages: [Game_C_5] 5.120744
+[2020.05.03-10.08.37:391][194]LogBlueprintUserMessages: [Game_C_5] 4.444163
+[2020.05.03-10.08.37:423][195]LogBlueprintUserMessages: [Game_C_5] 3.75554
+[2020.05.03-10.08.37:453][196]LogBlueprintUserMessages: [Game_C_5] 3.10464
+[2020.05.03-10.08.37:485][197]LogBlueprintUserMessages: [Game_C_5] 2.062456
+[2020.05.03-10.08.37:516][198]LogBlueprintUserMessages: [Game_C_5] 0.965767
+[2020.05.03-10.08.37:547][199]LogBlueprintUserMessages: [Game_C_5] 0.069993
+[2020.05.03-10.08.37:578][200]LogBlueprintUserMessages: [Game_C_5] -0.272127
+[2020.05.03-10.08.37:608][201]LogBlueprintUserMessages: [Game_C_5] -1.147708
+[2020.05.03-10.08.37:639][202]LogBlueprintUserMessages: [Game_C_5] -1.612605
+[2020.05.03-10.08.37:670][203]LogBlueprintUserMessages: [Game_C_5] -2.773266
+[2020.05.03-10.08.37:702][204]LogBlueprintUserMessages: [Game_C_5] -2.208732
+[2020.05.03-10.08.37:733][205]LogBlueprintUserMessages: [Game_C_5] -3.512229
+[2020.05.03-10.08.37:764][206]LogBlueprintUserMessages: [Game_C_5] -3.888381
+[2020.05.03-10.08.37:794][207]LogBlueprintUserMessages: [Game_C_5] -3.931866
+[2020.05.03-10.08.37:827][208]LogBlueprintUserMessages: [Game_C_5] -3.196527
+[2020.05.03-10.08.37:856][209]LogBlueprintUserMessages: [Game_C_5] -2.932019
+[2020.05.03-10.08.37:888][210]LogBlueprintUserMessages: [Game_C_5] -3.626848
+[2020.05.03-10.08.37:919][211]LogBlueprintUserMessages: [Game_C_5] -3.348489
+[2020.05.03-10.08.37:950][212]LogBlueprintUserMessages: [Game_C_5] -1.971503
+[2020.05.03-10.08.37:981][213]LogBlueprintUserMessages: [Game_C_5] -0.279972
+[2020.05.03-10.08.38:011][214]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:041][215]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:071][216]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:103][217]LogBlueprintUserMessages: [Game_C_5] 0.139986
+[2020.05.03-10.08.38:134][218]LogBlueprintUserMessages: [Game_C_5] 0.268194
+[2020.05.03-10.08.38:164][219]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:194][220]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:225][221]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:255][222]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:288][223]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:317][224]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:347][225]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:378][226]LogBlueprintUserMessages: [Game_C_5] 0.069993
+[2020.05.03-10.08.38:408][227]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:439][228]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:470][229]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:500][230]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:531][231]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:560][232]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:591][233]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:622][234]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:653][235]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:684][236]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:717][237]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:745][238]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:776][239]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:807][240]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:838][241]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:868][242]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:898][243]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:929][244]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:960][245]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.38:992][246]LogBlueprintUserMessages: [Game_C_5] 0.069993
+[2020.05.03-10.08.39:024][247]LogBlueprintUserMessages: [Game_C_5] 1.286186
+[2020.05.03-10.08.39:054][248]LogBlueprintUserMessages: [Game_C_5] 2.060193
+[2020.05.03-10.08.39:086][249]LogBlueprintUserMessages: [Game_C_5] 2.26309
+[2020.05.03-10.08.39:117][250]LogBlueprintUserMessages: [Game_C_5] 2.727117
+[2020.05.03-10.08.39:147][251]LogBlueprintUserMessages: [Game_C_5] 3.028411
+[2020.05.03-10.08.39:178][252]LogBlueprintUserMessages: [Game_C_5] 2.071944
+[2020.05.03-10.08.39:208][253]LogBlueprintUserMessages: [Game_C_5] 1.738137
+[2020.05.03-10.08.39:240][254]LogBlueprintUserMessages: [Game_C_5] 2.014054
+[2020.05.03-10.08.39:270][255]LogBlueprintUserMessages: [Game_C_5] 1.670489
+[2020.05.03-10.08.39:301][256]LogBlueprintUserMessages: [Game_C_5] 1.20981
+[2020.05.03-10.08.39:332][257]LogBlueprintUserMessages: [Game_C_5] 0.944875
+[2020.05.03-10.08.39:363][258]LogBlueprintUserMessages: [Game_C_5] 1.148873
+[2020.05.03-10.08.39:393][259]LogBlueprintUserMessages: [Game_C_5] 0.732629
+[2020.05.03-10.08.39:424][260]LogBlueprintUserMessages: [Game_C_5] 0.268605
+[2020.05.03-10.08.39:455][261]LogBlueprintUserMessages: [Game_C_5] 0.089051
+[2020.05.03-10.08.39:486][262]LogBlueprintUserMessages: [Game_C_5] 0.108784
+[2020.05.03-10.08.39:517][263]LogBlueprintUserMessages: [Game_C_5] -0.271852
+[2020.05.03-10.08.39:547][264]LogBlueprintUserMessages: [Game_C_5] -0.134198
+[2020.05.03-10.08.39:577][265]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.39:608][266]LogBlueprintUserMessages: [Game_C_5] -0.349965
+[2020.05.03-10.08.39:639][267]LogBlueprintUserMessages: [Game_C_5] -0.467331
+[2020.05.03-10.08.39:672][268]LogBlueprintUserMessages: [Game_C_5] -0.069993
+[2020.05.03-10.08.39:700][269]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.39:730][270]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.39:761][271]LogBlueprintUserMessages: [Game_C_5] -0.069993
+[2020.05.03-10.08.39:792][272]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.39:822][273]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.39:854][274]LogBlueprintUserMessages: [Game_C_5] -0.069993
+[2020.05.03-10.08.39:884][275]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.39:915][276]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.39:946][277]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.39:977][278]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:007][279]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:037][280]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:068][281]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:099][282]LogBlueprintUserMessages: [Game_C_5] -0.069993
+[2020.05.03-10.08.40:131][283]LogBlueprintUserMessages: [Game_C_5] -0.209979
+[2020.05.03-10.08.40:162][284]LogBlueprintUserMessages: [Game_C_5] -1.613532
+[2020.05.03-10.08.40:193][285]LogBlueprintUserMessages: [Game_C_5] -1.750121
+[2020.05.03-10.08.40:223][286]LogBlueprintUserMessages: [Game_C_5] -1.292924
+[2020.05.03-10.08.40:254][287]LogBlueprintUserMessages: [Game_C_5] -0.540516
+[2020.05.03-10.08.40:285][288]LogBlueprintUserMessages: [Game_C_5] -0.139986
+[2020.05.03-10.08.40:315][289]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:347][290]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:376][291]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:407][292]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:437][293]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:468][294]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:498][295]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:528][296]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:558][297]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:588][298]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:618][299]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:649][300]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:680][301]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:710][302]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:741][303]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:772][304]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:803][305]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:833][306]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:864][307]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:895][308]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:926][309]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:957][310]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.40:987][311]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:018][312]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:048][313]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:078][314]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:109][315]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:140][316]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:170][317]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:202][318]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:232][319]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:263][320]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:294][321]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:325][322]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:355][323]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:387][324]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:418][325]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:448][326]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:479][327]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:509][328]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:539][329]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:569][330]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:599][331]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:630][332]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:661][333]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:692][334]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:722][335]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:753][336]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:784][337]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:815][338]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:845][339]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:876][340]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:906][341]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:937][342]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.41:968][343]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:000][344]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:030][345]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:061][346]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:091][347]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:122][348]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:152][349]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:183][350]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:214][351]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:245][352]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:276][353]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:306][354]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:337][355]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:367][356]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:398][357]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:428][358]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:459][359]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:489][360]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:521][361]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:551][362]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:582][363]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:613][364]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:643][365]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:675][366]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:705][367]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:736][368]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:767][369]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:798][370]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:829][371]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:860][372]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:890][373]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:921][374]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:951][375]Set new viewmode: Unlit
+[2020.05.03-10.08.42:953][375]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.42:982][376]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:012][377]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:029][378]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:046][379]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:063][380]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:079][381]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:096][382]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:112][383]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:129][384]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:146][385]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:162][386]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:179][387]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:196][388]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:212][389]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:229][390]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:246][391]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:262][392]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:279][393]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:295][394]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:312][395]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:329][396]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:345][397]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:362][398]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:378][399]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:395][400]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:412][401]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:429][402]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:445][403]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:462][404]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:479][405]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:495][406]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:512][407]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:528][408]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:546][409]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:562][410]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:579][411]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:595][412]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:612][413]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:629][414]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:645][415]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:662][416]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:679][417]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:696][418]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:712][419]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:729][420]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:745][421]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:763][422]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:779][423]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:795][424]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:812][425]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:829][426]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:846][427]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:862][428]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:879][429]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:895][430]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:912][431]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:928][432]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:946][433]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:962][434]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:979][435]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.43:994][436]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.44:012][437]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.44:029][438]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.44:045][439]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.44:062][440]LogBlueprintUserMessages: [Game_C_5] 0.139986
+[2020.05.03-10.08.44:079][441]LogBlueprintUserMessages: [Game_C_5] 0.945323
+[2020.05.03-10.08.44:096][442]LogBlueprintUserMessages: [Game_C_5] 0.436269
+[2020.05.03-10.08.44:112][443]LogBlueprintUserMessages: [Game_C_5] 0.069993
+[2020.05.03-10.08.44:129][444]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.44:145][445]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.44:162][446]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.44:179][447]LogBlueprintUserMessages: [Game_C_5] 0.279972
+[2020.05.03-10.08.44:195][448]LogBlueprintUserMessages: [Game_C_5] 1.672121
+[2020.05.03-10.08.44:213][449]LogBlueprintUserMessages: [Game_C_5] 1.913092
+[2020.05.03-10.08.44:229][450]LogBlueprintUserMessages: [Game_C_5] 1.819795
+[2020.05.03-10.08.44:246][451]LogBlueprintUserMessages: [Game_C_5] 2.03814
+[2020.05.03-10.08.44:263][452]LogBlueprintUserMessages: [Game_C_5] 1.964944
+[2020.05.03-10.08.44:280][453]LogBlueprintUserMessages: [Game_C_5] 2.037534
+[2020.05.03-10.08.44:297][454]LogBlueprintUserMessages: [Game_C_5] 1.673447
+[2020.05.03-10.08.44:313][455]LogBlueprintUserMessages: [Game_C_5] 1.382247
+[2020.05.03-10.08.44:329][456]LogBlueprintUserMessages: [Game_C_5] 1.091157
+[2020.05.03-10.08.44:347][457]LogBlueprintUserMessages: [Game_C_5] 0.945535
+[2020.05.03-10.08.44:363][458]LogBlueprintUserMessages: [Game_C_5] 0.679805
+[2020.05.03-10.08.44:380][459]LogBlueprintUserMessages: [Game_C_5] 0.291287
+[2020.05.03-10.08.44:397][460]LogBlueprintUserMessages: [Game_C_5] 0.509804
+[2020.05.03-10.08.44:414][461]LogBlueprintUserMessages: [Game_C_5] 0.219207
+[2020.05.03-10.08.44:429][462]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.44:447][463]LogBlueprintUserMessages: [Game_C_5] 0.069993
+[2020.05.03-10.08.44:463][464]LogBlueprintUserMessages: [Game_C_5] 0.218386
+[2020.05.03-10.08.44:480][465]LogBlueprintUserMessages: [Game_C_5] 0.145572
+[2020.05.03-10.08.44:497][466]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.44:513][467]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.44:529][468]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.44:546][469]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.44:562][470]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.44:580][471]LogBlueprintUserMessages: [Game_C_5] -0.069993
+[2020.05.03-10.08.44:596][472]LogBlueprintUserMessages: [Game_C_5] -0.069993
+[2020.05.03-10.08.44:614][473]LogBlueprintUserMessages: [Game_C_5] -0.218014
+[2020.05.03-10.08.44:630][474]LogBlueprintUserMessages: [Game_C_5] -0.799389
+[2020.05.03-10.08.44:647][475]LogBlueprintUserMessages: [Game_C_5] -0.944632
+[2020.05.03-10.08.44:663][476]LogBlueprintUserMessages: [Game_C_5] -1.162542
+[2020.05.03-10.08.44:680][477]LogBlueprintUserMessages: [Game_C_5] -1.600625
+[2020.05.03-10.08.44:696][478]LogBlueprintUserMessages: [Game_C_5] -1.81865
+[2020.05.03-10.08.44:713][479]LogBlueprintUserMessages: [Game_C_5] -1.52751
+[2020.05.03-10.08.44:730][480]LogBlueprintUserMessages: [Game_C_5] -1.309154
+[2020.05.03-10.08.44:746][481]LogBlueprintUserMessages: [Game_C_5] -0.799943
+[2020.05.03-10.08.44:763][482]LogBlueprintUserMessages: [Game_C_5] -0.65441
+[2020.05.03-10.08.44:780][483]LogBlueprintUserMessages: [Game_C_5] -0.290921
+[2020.05.03-10.08.44:797][484]LogBlueprintUserMessages: [Game_C_5] -0.14539
+[2020.05.03-10.08.44:813][485]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.44:829][486]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.44:846][487]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.44:863][488]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.44:880][489]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.44:896][490]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.44:912][491]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.44:929][492]LogBlueprintUserMessages: [Game_C_5] -0.489951
+[2020.05.03-10.08.44:946][493]LogBlueprintUserMessages: [Game_C_5] -1.017744
+[2020.05.03-10.08.44:963][494]LogBlueprintUserMessages: [Game_C_5] -0.969257
+[2020.05.03-10.08.44:980][495]LogBlueprintUserMessages: [Game_C_5] -0.799675
+[2020.05.03-10.08.44:997][496]LogBlueprintUserMessages: [Game_C_5] -0.581568
+[2020.05.03-10.08.45:013][497]LogBlueprintUserMessages: [Game_C_5] -0.581557
+[2020.05.03-10.08.45:030][498]LogBlueprintUserMessages: [Game_C_5] -0.436176
+[2020.05.03-10.08.45:047][499]LogBlueprintUserMessages: [Game_C_5] -0.508887
+[2020.05.03-10.08.45:064][500]LogBlueprintUserMessages: [Game_C_5] -0.436168
+[2020.05.03-10.08.45:079][501]LogBlueprintUserMessages: [Game_C_5] -0.508893
+[2020.05.03-10.08.45:096][502]LogBlueprintUserMessages: [Game_C_5] -0.218087
+[2020.05.03-10.08.45:113][503]LogBlueprintUserMessages: [Game_C_5] -0.139986
+[2020.05.03-10.08.45:129][504]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:146][505]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:162][506]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:179][507]LogBlueprintUserMessages: [Game_C_5] -0.069993
+[2020.05.03-10.08.45:196][508]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:212][509]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:229][510]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:245][511]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:262][512]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:279][513]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:296][514]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:312][515]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:329][516]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:346][517]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:362][518]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:380][519]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:396][520]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:412][521]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:428][522]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:446][523]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:463][524]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:480][525]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:496][526]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:513][527]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:529][528]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:545][529]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:562][530]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:579][531]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:595][532]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:612][533]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:629][534]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:646][535]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:663][536]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:679][537]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:696][538]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:713][539]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:729][540]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:745][541]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:762][542]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:779][543]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:796][544]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:812][545]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:829][546]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:846][547]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:862][548]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:879][549]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:895][550]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:912][551]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:929][552]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:946][553]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:962][554]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:979][555]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.45:996][556]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:012][557]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:029][558]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:046][559]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:062][560]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:079][561]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:095][562]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:112][563]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:129][564]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:145][565]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:162][566]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:179][567]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:196][568]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:212][569]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:229][570]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:245][571]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:262][572]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:279][573]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:295][574]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:312][575]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.03-10.08.46:313][575]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:329][576]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:345][577]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:362][578]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:380][579]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:396][580]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:413][581]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:429][582]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:446][583]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:463][584]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:479][585]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:496][586]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:513][587]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:529][588]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:546][589]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:563][590]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:579][591]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:596][592]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:612][593]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:629][594]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:646][595]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:662][596]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:679][597]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:696][598]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:712][599]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:729][600]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:746][601]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:762][602]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:779][603]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:795][604]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:812][605]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:830][606]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:846][607]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:863][608]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:880][609]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:896][610]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:913][611]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:930][612]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:946][613]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:963][614]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:979][615]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.46:995][616]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:012][617]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:029][618]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:045][619]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:062][620]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:080][621]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:095][622]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:113][623]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:129][624]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:146][625]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:163][626]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:179][627]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:195][628]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:212][629]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:229][630]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:246][631]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:263][632]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:279][633]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:296][634]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:313][635]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:329][636]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:346][637]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:363][638]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:379][639]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:396][640]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:413][641]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:429][642]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:446][643]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:463][644]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:480][645]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:496][646]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:513][647]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:530][648]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:546][649]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:563][650]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:580][651]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:596][652]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:613][653]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:629][654]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:646][655]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:663][656]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:679][657]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:696][658]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:713][659]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:730][660]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:745][661]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:763][662]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:780][663]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:796][664]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:812][665]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:829][666]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:846][667]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:863][668]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:883][669]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:897][670]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:913][671]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:931][672]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:947][673]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:963][674]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:980][675]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.47:997][676]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.48:015][677]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.48:030][678]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.48:047][679]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.48:063][680]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.48:080][681]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.48:097][682]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.48:113][683]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.48:130][684]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.48:146][685]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.48:163][686]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.48:179][687]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.48:196][688]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.48:363][698]LogBlueprintUserMessages: [Game_C_5] 0.0
+[2020.05.03-10.08.48:363][698]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.08.48:364][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.08.48:400][698]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.03-10.08.48:400][698]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.08.48:435][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.08.48:465][700]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.05.03-10.13.27:572][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.03-10.13.27:799][384]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Game2CE378DA43926784AE1C698079A710A8.tmp' to '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game.umap'
+[2020.05.03-10.13.27:825][384]LogFileHelpers: Saving map 'Game' took 0.470
+[2020.05.03-10.13.31:131][452]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.03-10.13.33:098][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.03-10.13.34:569][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.03-10.13.34:701][534]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.03-10.13.34:713][534]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.13.34:713][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.03-10.13.34:714][534]PIE: New page: PIE session: Game (3 maj 2020, 14:13:34)
+[2020.05.03-10.13.34:714][534]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2020.05.03-10.13.34:717][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003288s)
+[2020.05.03-10.13.34:718][534]LogAIModule: Creating AISystem for world Game
+[2020.05.03-10.13.34:718][534]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2020.05.03-10.13.34:718][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.004358s)
+[2020.05.03-10.13.34:754][534]LogInit: XAudio2 using 'Głośnik/Słuchawki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.03-10.13.34:787][534]LogInit: FAudioDevice initialized.
+[2020.05.03-10.13.34:819][534]LogLoad: Game class is 'GameModeBase'
+[2020.05.03-10.13.34:820][534]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2020.05.03-12.13.34
+[2020.05.03-10.13.34:820][534]LogWorld: Bringing up level for play took: 0.000875
+[2020.05.03-10.13.34:834][534]PIE: Play in editor start time for /Game/UEDPIE_0_Game -0,079
+[2020.05.03-10.13.34:835][534]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.13.46:985][942]Set new viewmode: Unlit
+[2020.05.03-10.13.48:662][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.03-10.13.53:880][354]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.13.53:880][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.13.53:921][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.03-10.13.53:921][354]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.13.53:957][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.13.53:987][356]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.05.03-10.15.01:392][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.03-10.15.01:611][622]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Game07124AE54C9900A022F4BFA64E90F000.tmp' to '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game.umap'
+[2020.05.03-10.15.01:636][622]LogFileHelpers: Saving map 'Game' took 0.455
+[2020.05.03-10.15.06:993][751]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.03-10.15.07:005][751]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.15.07:005][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.03-10.15.07:005][751]PIE: New page: PIE session: Game (3 maj 2020, 14:15:07)
+[2020.05.03-10.15.07:005][751]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2020.05.03-10.15.07:009][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003738s)
+[2020.05.03-10.15.07:010][751]LogAIModule: Creating AISystem for world Game
+[2020.05.03-10.15.07:010][751]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2020.05.03-10.15.07:010][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.004730s)
+[2020.05.03-10.15.07:046][751]LogInit: XAudio2 using 'Głośnik/Słuchawki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.03-10.15.07:078][751]LogInit: FAudioDevice initialized.
+[2020.05.03-10.15.07:109][751]LogLoad: Game class is 'GameModeBase'
+[2020.05.03-10.15.07:110][751]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2020.05.03-12.15.07
+[2020.05.03-10.15.07:110][751]LogWorld: Bringing up level for play took: 0.000888
+[2020.05.03-10.15.07:124][751]PIE: Play in editor start time for /Game/UEDPIE_0_Game 0,211
+[2020.05.03-10.15.07:125][751]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.15.24:205][305]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.03-10.15.26:065][368]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.15.26:065][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.15.26:104][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.03-10.15.26:104][368]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.15.26:139][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.15.26:170][370]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.05.03-10.18.47:769][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.03-10.18.47:827][762]LogBlueprint: Error: [Compiler PersistentLevel.Game] Failed to resolve term  Value  passed into  Target
+[2020.05.03-10.18.47:827][762]LogBlueprint: Warning: [Compiler PersistentLevel.Game] [1846,28] Compile of PersistentLevel.Game failed. 1 Fatal Issue(s) 0 Warning(s) [in 10 ms] (/Game/Game.Game:PersistentLevel.Game)
+[2020.05.03-10.18.48:084][762]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/GameC87291E040EA1AD0D66041BAF01A419F.tmp' to '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game.umap'
+[2020.05.03-10.18.48:110][762]LogFileHelpers: Saving map 'Game' took 0.555
+[2020.05.03-10.18.49:641][798]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.03-10.18.51:098][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.03-10.18.52:648][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.03-10.18.52:780][871]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.03-10.18.52:792][871]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.18.52:792][871]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.05.03-10.18.52:798][871]LogPlayLevel: [PlayLevel] Compiling Game before play...
+[2020.05.03-10.18.52:808][871]LogBlueprint: Error: [Compiler PersistentLevel.Game] Failed to resolve term  Value  passed into  Target
+[2020.05.03-10.18.52:809][871]LogBlueprint: Warning: [Compiler PersistentLevel.Game] [1851,26] Compile of PersistentLevel.Game failed. 1 Fatal Issue(s) 0 Warning(s) [in 11 ms] (/Game/Game.Game:PersistentLevel.Game)
+[2020.05.03-10.18.52:954][871]LogPlayLevel: PlayLevel: Blueprint regeneration took 162 ms (1 blueprints)
+[2020.05.03-10.18.52:954][871]BlueprintLog: Blueprint Game failed to compile
+[2020.05.03-10.18.58:536][871]LogSlate: Window 'Message' being destroyed
+[2020.05.03-10.19.16:789][434]BlueprintLog: New page: Compile Game
+[2020.05.03-10.19.16:812][434]LogBlueprint: Error: [Compiler PersistentLevel.Game] Failed to resolve term  Value  passed into  Target
+[2020.05.03-10.19.16:958][434]LogBlueprint: Warning: [Compiler PersistentLevel.Game] [1875,41] Compile of PersistentLevel.Game failed. 1 Fatal Issue(s) 0 Warning(s) [in 169 ms] (/Game/Game.Game:PersistentLevel.Game)
+[2020.05.03-10.20.12:766][843]BlueprintLog: New page: Compile Game
+[2020.05.03-10.20.12:789][843]LogBlueprint: Error: [Compiler PersistentLevel.Game] Failed to resolve term  Value  passed into  Target
+[2020.05.03-10.20.12:960][843]LogBlueprint: Warning: [Compiler PersistentLevel.Game] [1931,41] Compile of PersistentLevel.Game failed. 1 Fatal Issue(s) 0 Warning(s) [in 194 ms] (/Game/Game.Game:PersistentLevel.Game)
+[2020.05.03-10.20.49:168][490]BlueprintLog: New page: Compile Game
+[2020.05.03-10.20.49:190][490]LogBlueprint: Error: [Compiler PersistentLevel.Game] Failed to resolve term  Value  passed into  Target
+[2020.05.03-10.20.49:337][490]LogBlueprint: Warning: [Compiler PersistentLevel.Game] [1967,79] Compile of PersistentLevel.Game failed. 1 Fatal Issue(s) 0 Warning(s) [in 169 ms] (/Game/Game.Game:PersistentLevel.Game)
+[2020.05.03-10.23.17:342][497]BlueprintLog: New page: Compile Game
+[2020.05.03-10.23.23:787][589]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.03-10.23.23:799][589]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.23.23:800][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.03-10.23.23:800][589]PIE: New page: PIE session: Game (3 maj 2020, 14:23:23)
+[2020.05.03-10.23.23:800][589]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2020.05.03-10.23.23:803][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003562s)
+[2020.05.03-10.23.23:804][589]LogAIModule: Creating AISystem for world Game
+[2020.05.03-10.23.23:804][589]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2020.05.03-10.23.23:804][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.004638s)
+[2020.05.03-10.23.23:845][589]LogInit: XAudio2 using 'Głośnik/Słuchawki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.03-10.23.23:882][589]LogInit: FAudioDevice initialized.
+[2020.05.03-10.23.23:912][589]LogLoad: Game class is 'GameModeBase'
+[2020.05.03-10.23.23:914][589]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2020.05.03-12.23.23
+[2020.05.03-10.23.23:914][589]LogWorld: Bringing up level for play took: 0.001427
+[2020.05.03-10.23.23:929][589]PIE: Play in editor start time for /Game/UEDPIE_0_Game 1,016
+[2020.05.03-10.23.23:929][589]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.23.47:116][336]Set new viewmode: Unlit
+[2020.05.03-10.23.50:790][555]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.03-10.23.52:457][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.23.52:458][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.23.52:498][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.03-10.23.52:498][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.23.52:532][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.23.52:563][657]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.05.03-10.24.27:890][994]BlueprintLog: New page: Compile Game
+[2020.05.03-10.24.31:234][ 79]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.03-10.24.31:248][ 79]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.24.31:248][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.03-10.24.31:248][ 79]PIE: New page: PIE session: Game (3 maj 2020, 14:24:31)
+[2020.05.03-10.24.31:249][ 79]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2020.05.03-10.24.31:253][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004029s)
+[2020.05.03-10.24.31:253][ 79]LogAIModule: Creating AISystem for world Game
+[2020.05.03-10.24.31:254][ 79]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2020.05.03-10.24.31:254][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.005226s)
+[2020.05.03-10.24.31:294][ 79]LogInit: XAudio2 using 'Głośnik/Słuchawki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.03-10.24.31:326][ 79]LogInit: FAudioDevice initialized.
+[2020.05.03-10.24.31:359][ 79]LogLoad: Game class is 'GameModeBase'
+[2020.05.03-10.24.31:360][ 79]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2020.05.03-12.24.31
+[2020.05.03-10.24.31:360][ 79]LogWorld: Bringing up level for play took: 0.000818
+[2020.05.03-10.24.31:373][ 79]PIE: Play in editor start time for /Game/UEDPIE_0_Game 0,46
+[2020.05.03-10.24.31:374][ 79]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.24.45:535][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.03-10.24.47:134][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.24.47:134][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.24.47:173][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.03-10.24.47:173][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.24.47:209][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.24.47:240][594]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.05.03-10.25.39:129][136]BlueprintLog: New page: Compile Game
+[2020.05.03-10.25.44:976][315]BlueprintLog: New page: Compile Game
+[2020.05.03-10.25.44:998][315]LogBlueprint: Error: [Compiler PersistentLevel.Game] Failed to resolve term  Value  passed into  Target
+[2020.05.03-10.25.45:145][315]LogBlueprint: Warning: [Compiler PersistentLevel.Game] [2263,60] Compile of PersistentLevel.Game failed. 1 Fatal Issue(s) 0 Warning(s) [in 168 ms] (/Game/Game.Game:PersistentLevel.Game)
+[2020.05.03-10.25.51:091][484]BlueprintLog: New page: Compile Game
+[2020.05.03-10.25.51:111][484]LogBlueprint: Error: [Compiler PersistentLevel.Game] Failed to resolve term  Value  passed into  Target
+[2020.05.03-10.25.51:257][484]LogBlueprint: Warning: [Compiler PersistentLevel.Game] [2269,71] Compile of PersistentLevel.Game failed. 1 Fatal Issue(s) 0 Warning(s) [in 166 ms] (/Game/Game.Game:PersistentLevel.Game)
+[2020.05.03-10.26.22:743][489]BlueprintLog: New page: Compile Game
+[2020.05.03-10.26.27:741][617]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.03-10.26.27:756][617]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.26.27:756][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.03-10.26.27:757][617]PIE: New page: PIE session: Game (3 maj 2020, 14:26:27)
+[2020.05.03-10.26.27:757][617]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2020.05.03-10.26.27:761][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004150s)
+[2020.05.03-10.26.27:762][617]LogAIModule: Creating AISystem for world Game
+[2020.05.03-10.26.27:762][617]LogPlayLevel: PIE: World Init took: (0.001394s)
+[2020.05.03-10.26.27:762][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.005797s)
+[2020.05.03-10.26.27:803][617]LogInit: XAudio2 using 'Głośnik/Słuchawki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.03-10.26.27:849][617]LogInit: FAudioDevice initialized.
+[2020.05.03-10.26.27:885][617]LogLoad: Game class is 'GameModeBase'
+[2020.05.03-10.26.27:887][617]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2020.05.03-12.26.27
+[2020.05.03-10.26.27:887][617]LogWorld: Bringing up level for play took: 0.001332
+[2020.05.03-10.26.27:901][617]PIE: Play in editor start time for /Game/UEDPIE_0_Game 0,987
+[2020.05.03-10.26.27:901][617]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.26.41:169][ 39]Set new viewmode: Unlit
+[2020.05.03-10.26.43:947][204]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.03-10.26.45:448][294]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.26.45:448][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.26.45:490][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.03-10.26.45:490][294]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.26.45:525][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.26.45:556][296]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.05.03-10.27.50:950][240]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.03-10.27.50:967][240]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.27.50:967][240]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.05.03-10.27.50:973][240]LogPlayLevel: [PlayLevel] Compiling Game before play...
+[2020.05.03-10.27.51:135][240]LogPlayLevel: PlayLevel: Blueprint regeneration took 168 ms (1 blueprints)
+[2020.05.03-10.27.51:135][240]PIE: New page: PIE session: Game (3 maj 2020, 14:27:51)
+[2020.05.03-10.27.51:135][240]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2020.05.03-10.27.51:139][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003605s)
+[2020.05.03-10.27.51:139][240]LogAIModule: Creating AISystem for world Game
+[2020.05.03-10.27.51:140][240]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2020.05.03-10.27.51:140][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.004648s)
+[2020.05.03-10.27.51:177][240]LogInit: XAudio2 using 'Głośnik/Słuchawki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.03-10.27.51:208][240]LogInit: FAudioDevice initialized.
+[2020.05.03-10.27.51:246][240]LogLoad: Game class is 'GameModeBase'
+[2020.05.03-10.27.51:248][240]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2020.05.03-12.27.51
+[2020.05.03-10.27.51:249][240]LogWorld: Bringing up level for play took: 0.001526
+[2020.05.03-10.27.51:262][240]PIE: Play in editor start time for /Game/UEDPIE_0_Game 0,348
+[2020.05.03-10.27.51:263][240]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.28.23:414][284]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.03-10.28.27:991][437]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.28.27:991][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.28.28:033][437]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.03-10.28.28:033][437]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.28.28:071][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.28.28:102][439]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.05.03-10.29.21:325][171]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.03-10.29.21:342][171]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.29.21:342][171]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.05.03-10.29.21:350][171]LogPlayLevel: [PlayLevel] Compiling Game before play...
+[2020.05.03-10.29.21:508][171]LogPlayLevel: PlayLevel: Blueprint regeneration took 165 ms (1 blueprints)
+[2020.05.03-10.29.21:508][171]PIE: New page: PIE session: Game (3 maj 2020, 14:29:21)
+[2020.05.03-10.29.21:508][171]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2020.05.03-10.29.21:512][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003487s)
+[2020.05.03-10.29.21:513][171]LogAIModule: Creating AISystem for world Game
+[2020.05.03-10.29.21:513][171]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2020.05.03-10.29.21:513][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.004528s)
+[2020.05.03-10.29.21:547][171]LogInit: XAudio2 using 'Głośnik/Słuchawki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.03-10.29.21:581][171]LogInit: FAudioDevice initialized.
+[2020.05.03-10.29.21:616][171]LogLoad: Game class is 'GameModeBase'
+[2020.05.03-10.29.21:618][171]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2020.05.03-12.29.21
+[2020.05.03-10.29.21:618][171]LogWorld: Bringing up level for play took: 0.001499
+[2020.05.03-10.29.21:632][171]PIE: Play in editor start time for /Game/UEDPIE_0_Game 0,718
+[2020.05.03-10.29.21:632][171]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.29.47:974][970]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.03-10.29.49:771][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.29.49:771][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.29.49:814][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.03-10.29.49:814][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.29.49:850][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.29.49:881][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.05.03-10.33.21:485][812]BlueprintLog: New page: Compile Game
+[2020.05.03-10.33.25:163][902]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.03-10.33.25:176][902]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.33.25:176][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.03-10.33.25:177][902]PIE: New page: PIE session: Game (3 maj 2020, 14:33:25)
+[2020.05.03-10.33.25:177][902]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2020.05.03-10.33.25:181][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004314s)
+[2020.05.03-10.33.25:182][902]LogAIModule: Creating AISystem for world Game
+[2020.05.03-10.33.25:182][902]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2020.05.03-10.33.25:182][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.005532s)
+[2020.05.03-10.33.25:218][902]LogInit: XAudio2 using 'Głośnik/Słuchawki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.03-10.33.25:251][902]LogInit: FAudioDevice initialized.
+[2020.05.03-10.33.25:281][902]LogLoad: Game class is 'GameModeBase'
+[2020.05.03-10.33.25:282][902]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2020.05.03-12.33.25
+[2020.05.03-10.33.25:283][902]LogWorld: Bringing up level for play took: 0.001758
+[2020.05.03-10.33.25:301][902]PIE: Play in editor start time for /Game/UEDPIE_0_Game 0,387
+[2020.05.03-10.33.25:301][902]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.33.38:519][333]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.03-10.33.40:496][404]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.33.40:497][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.33.40:536][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.03-10.33.40:536][404]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.33.40:572][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.33.40:603][406]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.05.03-10.34.01:551][918]BlueprintLog: New page: Compile Game
+[2020.05.03-10.34.18:644][276]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.03-10.34.18:656][276]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.34.18:657][276]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.03-10.34.18:657][276]PIE: New page: PIE session: Game (3 maj 2020, 14:34:18)
+[2020.05.03-10.34.18:657][276]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2020.05.03-10.34.18:661][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003869s)
+[2020.05.03-10.34.18:662][276]LogAIModule: Creating AISystem for world Game
+[2020.05.03-10.34.18:662][276]LogPlayLevel: PIE: World Init took: (0.001333s)
+[2020.05.03-10.34.18:662][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.005372s)
+[2020.05.03-10.34.18:697][276]LogInit: XAudio2 using 'Głośnik/Słuchawki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.03-10.34.18:729][276]LogInit: FAudioDevice initialized.
+[2020.05.03-10.34.18:763][276]LogLoad: Game class is 'GameModeBase'
+[2020.05.03-10.34.18:764][276]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2020.05.03-12.34.18
+[2020.05.03-10.34.18:764][276]LogWorld: Bringing up level for play took: 0.000816
+[2020.05.03-10.34.18:779][276]PIE: Play in editor start time for /Game/UEDPIE_0_Game -0,135
+[2020.05.03-10.34.18:779][276]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.34.30:845][670]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.03-10.34.32:318][722]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.34.32:318][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.34.32:361][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.03-10.34.32:361][722]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.34.32:422][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.34.32:436][723]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.05.03-10.34.46:293][136]BlueprintLog: New page: Compile Game
+[2020.05.03-10.34.46:315][136]LogBlueprint: Error: [Compiler PersistentLevel.Game] Failed to resolve term  Value  passed into  Target
+[2020.05.03-10.34.46:466][136]LogBlueprint: Warning: [Compiler PersistentLevel.Game] [2804,92] Compile of PersistentLevel.Game failed. 1 Fatal Issue(s) 0 Warning(s) [in 172 ms] (/Game/Game.Game:PersistentLevel.Game)
+[2020.05.03-10.35.47:147][ 49]BlueprintLog: New page: Compile Game
+[2020.05.03-10.35.56:696][273]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.03-10.35.56:708][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.35.56:708][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.03-10.35.56:708][273]PIE: New page: PIE session: Game (3 maj 2020, 14:35:56)
+[2020.05.03-10.35.56:709][273]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2020.05.03-10.35.56:713][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004105s)
+[2020.05.03-10.35.56:713][273]LogAIModule: Creating AISystem for world Game
+[2020.05.03-10.35.56:714][273]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2020.05.03-10.35.56:714][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.005257s)
+[2020.05.03-10.35.56:749][273]LogInit: XAudio2 using 'Głośnik/Słuchawki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.03-10.35.56:781][273]LogInit: FAudioDevice initialized.
+[2020.05.03-10.35.56:813][273]LogLoad: Game class is 'GameModeBase'
+[2020.05.03-10.35.56:814][273]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2020.05.03-12.35.56
+[2020.05.03-10.35.56:815][273]LogWorld: Bringing up level for play took: 0.001006
+[2020.05.03-10.35.56:828][273]PIE: Play in editor start time for /Game/UEDPIE_0_Game -0,085
+[2020.05.03-10.35.56:829][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.36.16:197][896]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.03-10.36.17:912][957]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.36.17:912][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.36.17:956][957]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.03-10.36.17:956][957]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.36.17:992][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.36.18:023][959]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.05.03-10.38.21:273][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.03-10.38.21:495][524]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/GameCE028EA546303176F4F457A3C4FE2654.tmp' to '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game.umap'
+[2020.05.03-10.38.21:520][524]LogFileHelpers: Saving map 'Game' took 0.462
+[2020.05.03-10.38.29:406][707]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.03-10.38.29:420][707]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.38.29:420][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.03-10.38.29:421][707]PIE: New page: PIE session: Game (3 maj 2020, 14:38:29)
+[2020.05.03-10.38.29:421][707]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2020.05.03-10.38.29:425][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004364s)
+[2020.05.03-10.38.29:426][707]LogAIModule: Creating AISystem for world Game
+[2020.05.03-10.38.29:426][707]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2020.05.03-10.38.29:426][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.005582s)
+[2020.05.03-10.38.29:464][707]LogInit: XAudio2 using 'Głośnik/Słuchawki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.03-10.38.29:497][707]LogInit: FAudioDevice initialized.
+[2020.05.03-10.38.29:529][707]LogLoad: Game class is 'GameModeBase'
+[2020.05.03-10.38.29:530][707]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2020.05.03-12.38.29
+[2020.05.03-10.38.29:530][707]LogWorld: Bringing up level for play took: 0.000862
+[2020.05.03-10.38.29:544][707]PIE: Play in editor start time for /Game/UEDPIE_0_Game 0,63
+[2020.05.03-10.38.29:545][707]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.38.42:052][115]Set new viewmode: Unlit
+[2020.05.03-10.38.44:627][268]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.03-10.38.46:195][362]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.38.46:196][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.38.46:239][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.03-10.38.46:239][362]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Game.Game:PersistentLevel' has LevelScriptBlueprint '/Game/Game.Game:PersistentLevel.Game' with GeneratedClass '/Game/Game.Game_C' with ClassGeneratedBy '/Game/Game.Game:PersistentLevel.Game'
+[2020.05.03-10.38.46:274][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.03-10.38.46:305][364]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.05.03-10.48.39:184][469]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Game_Auto2CBD648EA44B724FC28BB54B57B31867B.tmp' to '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Autosaves/Game/Game_Auto2.umap'
+[2020.05.03-10.48.39:204][469]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game' took 1.112
+[2020.05.03-10.48.39:204][469]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.112
+[2020.05.03-10.59.49:529][587]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Game_Auto3B80740E3488B34DF135E24AF068D38F2.tmp' to '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Autosaves/Game/Game_Auto3.umap'
+[2020.05.03-10.59.49:536][587]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game' took 0.350
+[2020.05.03-10.59.49:536][587]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.350
+[2020.05.03-11.14.16:693][116]BlueprintLog: New page: Compile Game
+[2020.05.03-11.14.16:738][116]LogBlueprint: Error: [Compiler PersistentLevel.Game] Event node  Event Tick  is out-of-date.  Please refresh it.
+[2020.05.03-11.14.16:897][116]LogBlueprint: Warning: [Compiler PersistentLevel.Game] [5175,35] Compile of PersistentLevel.Game failed. 1 Fatal Issue(s) 0 Warning(s) [in 204 ms] (/Game/Game.Game:PersistentLevel.Game)
+[2020.05.03-11.14.29:674][527]BlueprintLog: New page: Compile Game
+[2020.05.03-11.14.29:693][527]LogBlueprint: Error: [Compiler PersistentLevel.Game] Event node  Event Tick  is out-of-date.  Please refresh it.
+[2020.05.03-11.14.29:845][527]LogBlueprint: Warning: [Compiler PersistentLevel.Game] [5188,30] Compile of PersistentLevel.Game failed. 1 Fatal Issue(s) 0 Warning(s) [in 170 ms] (/Game/Game.Game:PersistentLevel.Game)
+[2020.05.03-11.15.22:480][735]LogBlueprint: Error: [Compiler PersistentLevel.Game] Event node  Event Tick  is out-of-date.  Please refresh it.
+[2020.05.03-11.15.22:482][735]LogBlueprint: Warning: [Compiler PersistentLevel.Game] [5240,94] Compile of PersistentLevel.Game failed. 1 Fatal Issue(s) 0 Warning(s) [in 10 ms] (/Game/Game.Game:PersistentLevel.Game)
+[2020.05.03-11.15.22:788][735]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Game_Auto425A5DC62413FC96315407887C6319ED4.tmp' to '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Autosaves/Game/Game_Auto4.umap'
+[2020.05.03-11.15.22:801][735]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game' took 0.385
+[2020.05.03-11.15.22:801][735]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.385
+[2020.05.03-11.16.49:369][439]BlueprintLog: New page: Compile Game
+[2020.05.03-11.16.49:401][439]LogBlueprint: Error: [Compiler PersistentLevel.Game] Event node  Event Tick  is out-of-date.  Please refresh it.
+[2020.05.03-11.16.49:565][439]LogBlueprint: Warning: [Compiler PersistentLevel.Game] [5328,02] Compile of PersistentLevel.Game failed. 1 Fatal Issue(s) 0 Warning(s) [in 195 ms] (/Game/Game.Game:PersistentLevel.Game)
+[2020.05.03-11.25.23:225][932]LogBlueprint: Error: [Compiler PersistentLevel.Game] Event node  Event Tick  is out-of-date.  Please refresh it.
+[2020.05.03-11.25.23:227][932]LogBlueprint: Warning: [Compiler PersistentLevel.Game] [5841,68] Compile of PersistentLevel.Game failed. 1 Fatal Issue(s) 0 Warning(s) [in 11 ms] (/Game/Game.Game:PersistentLevel.Game)
+[2020.05.03-11.25.23:446][932]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Game_Auto501ADE4B14DCA4D2163FBF7AEEDE70480.tmp' to '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Autosaves/Game/Game_Auto5.umap'
+[2020.05.03-11.25.23:456][932]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game' took 0.301
+[2020.05.03-11.25.23:457][932]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.301
+[2020.05.03-11.29.57:165][702]LogSlate: Window 'Game* - Level Blueprint Editor' being destroyed
+[2020.05.03-11.29.57:175][702]LogSlate: Window 'Game* - Level Blueprint Editor' being destroyed
+[2020.05.03-11.30.02:458][753]LogSlate: Window 'Save Content' being destroyed
+[2020.05.03-11.30.06:929][950]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Game.Game:PersistentLevel.Game
+[2020.05.03-11.30.22:235][530]LogSlate: Window 'Game* - Level Blueprint Editor' being destroyed
+[2020.05.03-11.30.22:242][530]LogSlate: Window 'Game* - Level Blueprint Editor' being destroyed
+[2020.05.03-11.30.25:357][565]LogSlate: Window 'Save Content' being destroyed
+[2020.05.03-11.30.25:743][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.03-11.30.25:797][565]LogBlueprint: Error: [Compiler PersistentLevel.Game] Event node  Event Tick  is out-of-date.  Please refresh it.
+[2020.05.03-11.30.25:799][565]LogBlueprint: Warning: [Compiler PersistentLevel.Game] [6144,25] Compile of PersistentLevel.Game failed. 1 Fatal Issue(s) 0 Warning(s) [in 9 ms] (/Game/Game.Game:PersistentLevel.Game)
+[2020.05.03-11.30.25:958][565]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Game311B298042FDB5CC644BC186C76ABFD0.tmp' to '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game.umap'
+[2020.05.03-11.30.25:985][565]LogFileHelpers: Saving map 'Game' took 0.601
+[2020.05.03-11.30.26:171][565]LogSlate: Window 'gameJuliaKonarczak - Unreal Editor' being destroyed
+[2020.05.03-11.30.26:172][565]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.03-11.30.26:879][566]Cmd: QUIT_EDITOR
+[2020.05.03-11.30.27:773][566]LogExit: Preparing to exit.
+[2020.05.03-11.30.29:532][566]LogExit: Editor shut down
+[2020.05.03-11.30.29:539][566]LogExit: Transaction tracking system shut down
+[2020.05.03-11.30.32:011][566]LogExit: Object subsystem successfully closed.
+[2020.05.03-11.30.32:218][566]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.03-11.30.32:260][566]LogD3D11RHI: Shutdown
+[2020.05.03-11.30.32:260][566]LogD3D11RHI: CleanupD3DDevice
+[2020.05.03-11.30.32:426][566]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.05.03-11.30.33:865][566]LogModuleManager: Shutting down and abandoning module BlueprintGraph (618)
+[2020.05.03-11.30.33:866][566]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2020.05.03-11.30.33:866][566]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2020.05.03-11.30.33:874][566]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (612)
+[2020.05.03-11.30.33:888][566]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2020.05.03-11.30.33:888][566]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2020.05.03-11.30.33:888][566]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2020.05.03-11.30.33:918][566]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2020.05.03-11.30.33:918][566]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2020.05.03-11.30.33:918][566]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2020.05.03-11.30.33:931][566]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2020.05.03-11.30.33:942][566]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2020.05.03-11.30.33:950][566]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2020.05.03-11.30.33:972][566]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2020.05.03-11.30.33:981][566]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2020.05.03-11.30.33:982][566]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2020.05.03-11.30.33:982][566]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2020.05.03-11.30.33:982][566]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2020.05.03-11.30.33:982][566]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2020.05.03-11.30.33:982][566]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2020.05.03-11.30.33:990][566]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2020.05.03-11.30.34:002][566]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2020.05.03-11.30.34:002][566]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2020.05.03-11.30.34:002][566]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2020.05.03-11.30.34:024][566]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2020.05.03-11.30.34:024][566]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2020.05.03-11.30.34:039][566]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2020.05.03-11.30.34:039][566]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2020.05.03-11.30.34:145][566]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2020.05.03-11.30.34:145][566]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2020.05.03-11.30.34:145][566]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2020.05.03-11.30.34:255][566]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2020.05.03-11.30.34:255][566]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2020.05.03-11.30.34:255][566]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2020.05.03-11.30.34:255][566]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2020.05.03-11.30.34:255][566]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2020.05.03-11.30.34:255][566]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2020.05.03-11.30.34:255][566]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2020.05.03-11.30.34:255][566]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2020.05.03-11.30.34:255][566]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2020.05.03-11.30.34:255][566]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2020.05.03-11.30.34:255][566]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2020.05.03-11.30.34:255][566]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2020.05.03-11.30.34:255][566]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2020.05.03-11.30.34:255][566]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2020.05.03-11.30.34:255][566]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2020.05.03-11.30.34:255][566]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2020.05.03-11.30.34:327][566]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2020.05.03-11.30.34:487][566]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2020.05.03-11.30.34:623][566]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2020.05.03-11.30.34:703][566]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2020.05.03-11.30.34:740][566]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2020.05.03-11.30.34:740][566]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2020.05.03-11.30.34:766][566]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2020.05.03-11.30.34:766][566]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2020.05.03-11.30.34:766][566]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2020.05.03-11.30.36:485][566]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2020.05.03-11.30.36:485][566]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2020.05.03-11.30.36:486][566]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2020.05.03-11.30.36:486][566]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2020.05.03-11.30.36:486][566]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2020.05.03-11.30.36:495][566]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2020.05.03-11.30.36:519][566]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2020.05.03-11.30.36:538][566]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2020.05.03-11.30.36:551][566]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2020.05.03-11.30.36:551][566]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2020.05.03-11.30.36:551][566]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2020.05.03-11.30.36:557][566]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2020.05.03-11.30.36:557][566]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2020.05.03-11.30.36:569][566]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2020.05.03-11.30.36:569][566]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2020.05.03-11.30.36:569][566]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2020.05.03-11.30.36:569][566]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2020.05.03-11.30.36:599][566]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2020.05.03-11.30.36:606][566]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2020.05.03-11.30.36:617][566]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2020.05.03-11.30.36:634][566]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2020.05.03-11.30.36:648][566]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2020.05.03-11.30.36:727][566]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2020.05.03-11.30.36:739][566]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2020.05.03-11.30.36:749][566]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2020.05.03-11.30.36:766][566]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2020.05.03-11.30.36:766][566]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2020.05.03-11.30.36:780][566]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2020.05.03-11.30.36:781][566]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2020.05.03-11.30.36:800][566]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2020.05.03-11.30.36:800][566]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2020.05.03-11.30.36:808][566]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2020.05.03-11.30.36:904][566]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2020.05.03-11.30.36:904][566]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2020.05.03-11.30.36:905][566]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2020.05.03-11.30.36:905][566]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2020.05.03-11.30.36:916][566]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2020.05.03-11.30.36:930][566]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2020.05.03-11.30.36:930][566]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2020.05.03-11.30.36:943][566]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2020.05.03-11.30.36:949][566]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2020.05.03-11.30.36:949][566]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2020.05.03-11.30.36:955][566]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2020.05.03-11.30.36:965][566]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2020.05.03-11.30.36:966][566]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2020.05.03-11.30.36:966][566]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2020.05.03-11.30.36:966][566]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2020.05.03-11.30.36:966][566]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2020.05.03-11.30.36:966][566]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2020.05.03-11.30.36:975][566]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2020.05.03-11.30.36:988][566]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2020.05.03-11.30.37:001][566]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2020.05.03-11.30.37:001][566]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2020.05.03-11.30.37:001][566]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2020.05.03-11.30.37:228][566]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2020.05.03-11.30.37:244][566]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2020.05.03-11.30.37:244][566]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2020.05.03-11.30.37:244][566]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2020.05.03-11.30.37:250][566]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2020.05.03-11.30.37:250][566]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2020.05.03-11.30.37:250][566]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2020.05.03-11.30.37:258][566]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2020.05.03-11.30.37:258][566]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2020.05.03-11.30.37:258][566]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2020.05.03-11.30.37:259][566]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2020.05.03-11.30.37:259][566]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2020.05.03-11.30.37:259][566]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2020.05.03-11.30.37:259][566]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2020.05.03-11.30.37:296][566]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2020.05.03-11.30.37:296][566]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2020.05.03-11.30.37:296][566]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2020.05.03-11.30.37:296][566]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2020.05.03-11.30.37:314][566]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.05.03-11.30.37:314][566]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.05.03-11.30.37:314][566]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.05.03-11.30.37:314][566]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.05.03-11.30.37:327][566]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.05.03-11.30.37:327][566]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.05.03-11.30.37:327][566]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.05.03-11.30.37:328][566]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.05.03-11.30.37:328][566]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.05.03-11.30.37:328][566]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.05.03-11.30.37:328][566]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2020.05.03-11.30.37:334][566]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2020.05.03-11.30.37:336][566]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.05.03-11.30.37:336][566]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.05.03-11.30.37:352][566]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.05.03-11.30.37:367][566]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2020.05.03-11.30.37:367][566]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2020.05.03-11.30.37:382][566]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.05.03-11.30.37:391][566]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.05.03-11.30.37:391][566]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.05.03-11.30.37:392][566]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.05.03-11.30.37:392][566]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.05.03-11.30.37:392][566]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.05.03-11.30.37:396][566]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.05.03-11.30.37:406][566]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.05.03-11.30.37:440][566]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.05.03-11.30.37:455][566]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.05.03-11.30.37:455][566]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2020.05.03-11.30.37:455][566]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2020.05.03-11.30.37:455][566]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2020.05.03-11.30.37:455][566]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2020.05.03-11.30.37:472][566]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2020.05.03-11.30.37:485][566]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2020.05.03-11.30.37:486][566]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2020.05.03-11.30.37:486][566]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2020.05.03-11.30.37:486][566]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2020.05.03-11.30.37:498][566]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2020.05.03-11.30.37:498][566]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2020.05.03-11.30.37:498][566]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2020.05.03-11.30.37:505][566]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.05.03-11.30.37:506][566]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.05.03-11.30.37:607][566]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.05.03-11.30.37:776][566]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.05.03-11.30.37:777][566]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.05.03-11.30.37:803][566]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.05.03-11.30.37:803][566]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.05.03-11.30.37:804][566]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.05.03-11.30.37:804][566]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.05.03-11.30.37:818][566]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.05.03-11.30.37:835][566]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.05.03-11.30.37:850][566]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.05.03-11.30.37:851][566]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.05.03-11.30.37:859][566]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.05.03-11.30.37:870][566]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.05.03-11.30.37:880][566]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.05.03-11.30.37:891][566]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.05.03-11.30.37:891][566]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.05.03-11.30.37:892][566]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.05.03-11.30.37:896][566]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.05.03-11.30.37:904][566]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2020.05.03-11.30.37:922][566]LogModuleManager: Shutting down and abandoning module Media (243)
+[2020.05.03-11.30.37:930][566]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2020.05.03-11.30.37:930][566]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2020.05.03-11.30.37:930][566]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2020.05.03-11.30.37:944][566]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2020.05.03-11.30.37:944][566]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2020.05.03-11.30.37:944][566]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2020.05.03-11.30.37:944][566]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2020.05.03-11.30.37:955][566]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2020.05.03-11.30.37:971][566]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2020.05.03-11.30.37:971][566]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2020.05.03-11.30.37:998][566]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2020.05.03-11.30.38:007][566]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2020.05.03-11.30.38:013][566]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2020.05.03-11.30.38:013][566]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2020.05.03-11.30.38:026][566]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2020.05.03-11.30.38:062][566]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2020.05.03-11.30.38:096][566]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2020.05.03-11.30.38:097][566]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2020.05.03-11.30.38:128][566]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2020.05.03-11.30.38:128][566]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.05.03-11.30.38:132][566]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2020.05.03-11.30.38:139][566]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2020.05.03-11.30.38:139][566]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2020.05.03-11.30.38:139][566]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2020.05.03-11.30.38:139][566]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2020.05.03-11.30.38:139][566]LogModuleManager: Shutting down and abandoning module Core (188)
+[2020.05.03-11.30.38:139][566]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2020.05.03-11.30.38:139][566]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.05.03-11.30.38:139][566]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.05.03-11.30.38:150][566]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.05.03-11.30.38:162][566]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.05.03-11.30.38:162][566]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2020.05.03-11.30.38:173][566]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.05.03-11.30.38:186][566]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2020.05.03-11.30.38:186][566]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2020.05.03-11.30.38:193][566]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2020.05.03-11.30.38:202][566]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2020.05.03-11.30.38:202][566]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2020.05.03-11.30.38:286][566]LogDerivedDataCache: Shutdown
+[2020.05.03-11.30.38:286][566]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2020.05.03-11.30.38:297][566]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2020.05.03-11.30.38:297][566]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2020.05.03-11.30.38:307][566]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2020.05.03-11.30.38:319][566]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2020.05.03-11.30.38:335][566]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2020.05.03-11.30.38:335][566]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2020.05.03-11.30.38:344][566]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2020.05.03-11.30.38:344][566]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2020.05.03-11.30.38:344][566]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2020.05.03-11.30.38:355][566]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2020.05.03-11.30.38:360][566]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2020.05.03-11.30.38:360][566]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2020.05.03-11.30.38:360][566]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2020.05.03-11.30.38:360][566]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2020.05.03-11.30.38:360][566]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2020.05.03-11.30.38:360][566]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2020.05.03-11.30.38:361][566]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2020.05.03-11.30.38:361][566]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2020.05.03-11.30.38:361][566]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2020.05.03-11.30.38:361][566]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2020.05.03-11.30.38:369][566]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.05.03-11.30.38:381][566]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2020.05.03-11.30.38:390][566]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.05.03-11.30.38:390][566]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.05.03-11.30.38:394][566]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2020.05.03-11.30.38:395][566]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2020.05.03-11.30.38:456][566]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2020.05.03-11.30.38:456][566]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2020.05.03-11.30.38:456][566]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2020.05.03-11.30.38:456][566]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2020.05.03-11.30.38:456][566]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2020.05.03-11.30.38:456][566]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2020.05.03-11.30.38:456][566]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2020.05.03-11.30.38:456][566]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2020.05.03-11.30.38:456][566]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2020.05.03-11.30.38:456][566]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2020.05.03-11.30.38:456][566]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2020.05.03-11.30.38:456][566]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.05.03-11.30.38:456][566]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2020.05.03-11.30.38:456][566]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2020.05.03-11.30.38:465][566]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2020.05.03-11.30.38:465][566]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2020.05.03-11.30.38:465][566]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2020.05.03-11.30.38:465][566]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2020.05.03-11.30.38:482][566]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2020.05.03-11.30.38:492][566]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2020.05.03-11.30.38:541][566]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2020.05.03-11.30.38:547][566]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.03-11.30.38:547][566]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B66C8A55D-43C3-E981-22F9-C59BC6C852D0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=d9b415524ce98541001e77b83d8638ee%7C014d2bdaf2504c12bbc0ab3a330e53d1%7C3e16f369-9dd4-4c64-89d6-f7c2930694c5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.05.03-11.30.38:581][566]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2020.05.03-11.30.38:597][566]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2020.05.03-11.30.38:597][566]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2020.05.03-11.30.38:597][566]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2020.05.03-11.30.38:597][566]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2020.05.03-11.30.38:597][566]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2020.05.03-11.30.38:597][566]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2020.05.03-11.30.38:597][566]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2020.05.03-11.30.38:597][566]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2020.05.03-11.30.38:597][566]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2020.05.03-11.30.38:607][566]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.03-11.30.38:608][566]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2020.05.03-11.30.38:608][566]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.05.03-11.30.38:626][566]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.05.03-11.30.38:629][566]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.05.03-11.30.38:641][566]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.05.03-11.30.38:665][566]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.05.03-11.30.38:665][566]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.05.03-11.30.38:666][566]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.05.03-11.30.38:719][566]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.05.03-11.30.38:729][566]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.05.03-11.30.38:729][566]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.05.03-11.30.38:737][566]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.05.03-11.30.38:737][566]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.05.03-11.30.38:737][566]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.05.03-11.30.38:737][566]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.05.03-11.30.38:743][566]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.05.03-11.30.38:743][566]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.05.03-11.30.38:748][566]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.05.03-11.30.38:748][566]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.05.03-11.30.38:775][566]LogExit: Exiting.
+[2020.05.03-11.30.38:818][566]Log file closed, 05/03/20 13:30:38
