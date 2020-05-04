@@ -398,3 +398,573 @@ LogInit: Object subsystem initialized
 [2020.05.04-12.55.35:758][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2020.05.04-12.55.35:971][610]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Game68D8E943467390C4693F59AA5057E265.tmp' to '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game.umap'
 [2020.05.04-12.55.35:997][610]LogFileHelpers: Saving map 'Game' took 0.452
+[2020.05.04-12.58.39:595][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.05.04-12.58.41:086][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.05.04-12.58.55:509][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.05.04-12.59.33:510][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.05.04-12.59.38:269][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.05.04-13.00.05:944][430]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.04-13.00.07:664][467]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.04-13.00.20:769][562]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.00.38:923][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.01.22:896][635]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.05.04-13.01.49:404][139]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.03.27:412][434]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.03.54:655][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.03.54:814][330]Cmd: MODE GRID=0
+[2020.05.04-13.04.36:918][684]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.05.00:215][915]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.05.04:226][156]Cmd: MODE GRID=1
+[2020.05.04-13.05.07:745][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.05.07:854][266]Cmd: MODE GRID=0
+[2020.05.04-13.05.13:985][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.05.20:063][822]Cmd: MODE GRID=1
+[2020.05.04-13.05.42:981][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.06.12:905][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.06.18:638][288]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Game_Auto10637A63D4DECAB14B82F309B4ECE13DF.tmp' to '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Autosaves/Game/Game_Auto1.umap'
+[2020.05.04-13.06.18:661][288]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game' took 0.348
+[2020.05.04-13.06.18:661][288]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.348
+[2020.05.04-13.09.26:185][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.09.36:385][971]LogRenderer: Reallocating scene render targets to support 912x456 Format 10 NumSamples 1 (Frame:14666).
+[2020.05.04-13.09.36:486][972]LogRenderer: Reallocating scene render targets to support 940x456 Format 10 NumSamples 1 (Frame:14668).
+[2020.05.04-13.09.36:596][973]LogRenderer: Reallocating scene render targets to support 944x456 Format 10 NumSamples 1 (Frame:14670).
+[2020.05.04-13.09.55:736][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.09.56:908][514]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.05.04-13.09.59:950][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.10.20:008][122]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.04-13.10.35:802][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.11.57:029][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.12.21:733][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.13.23:264][ 43]LogEditorViewport: Clicking Background
+[2020.05.04-13.13.25:249][ 94]LogEditorViewport: Clicking Background
+[2020.05.04-13.14.11:033][255]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.14.11:993][312]Cmd: TRANSACTION UNDO
+[2020.05.04-13.14.11:994][312]LogEditorTransaction: Undo Move Actors
+[2020.05.04-13.14.12:025][312]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Game.Game:PersistentLevel.ModelComponent_150, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.05.04-13.14.12:025][312]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Game.Game:PersistentLevel.ModelComponent_150' invalid (48 verts, 0 indices).
+[2020.05.04-13.14.12:040][312]LogPhysics: Warning: Attempt to build physics data for /Game/Game.Game:PersistentLevel.ModelComponent_150.BodySetup_0 when we are unable to.
+[2020.05.04-13.14.12:041][312]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Game.Game:PersistentLevel.ModelComponent_151, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.05.04-13.14.12:041][312]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Game.Game:PersistentLevel.ModelComponent_151, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.05.04-13.14.12:041][312]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Game.Game:PersistentLevel.ModelComponent_151, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.05.04-13.14.12:041][312]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Game.Game:PersistentLevel.ModelComponent_151' invalid (48 verts, 0 indices).
+[2020.05.04-13.14.12:041][312]LogPhysics: Warning: Attempt to build physics data for /Game/Game.Game:PersistentLevel.ModelComponent_151.BodySetup_0 when we are unable to.
+[2020.05.04-13.14.12:041][312]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Game.Game:PersistentLevel.ModelComponent_152, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.05.04-13.14.12:041][312]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Game.Game:PersistentLevel.ModelComponent_152' invalid (48 verts, 0 indices).
+[2020.05.04-13.14.12:041][312]LogPhysics: Warning: Attempt to build physics data for /Game/Game.Game:PersistentLevel.ModelComponent_152.BodySetup_0 when we are unable to.
+[2020.05.04-13.14.12:041][312]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Game.Game:PersistentLevel.ModelComponent_153, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.05.04-13.14.12:041][312]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Game.Game:PersistentLevel.ModelComponent_153' invalid (48 verts, 0 indices).
+[2020.05.04-13.14.12:041][312]LogPhysics: Warning: Attempt to build physics data for /Game/Game.Game:PersistentLevel.ModelComponent_153.BodySetup_0 when we are unable to.
+[2020.05.04-13.14.12:042][312]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Game.Game:PersistentLevel.ModelComponent_154, Buffer: 0, Buffer Size: 0, Element: 0
+[2020.05.04-13.14.12:042][312]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Game.Game:PersistentLevel.ModelComponent_154, Buffer: 0, Buffer Size: 0, Element: 1
+[2020.05.04-13.14.12:042][312]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Game.Game:PersistentLevel.ModelComponent_154, Buffer: 0, Buffer Size: 0, Element: 2
+[2020.05.04-13.14.12:042][312]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Game.Game:PersistentLevel.ModelComponent_154, Buffer: 0, Buffer Size: 0, Element: 3
+[2020.05.04-13.14.12:042][312]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Game.Game:PersistentLevel.ModelComponent_154, Buffer: 0, Buffer Size: 0, Element: 4
+[2020.05.04-13.14.12:042][312]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/Game.Game:PersistentLevel.ModelComponent_154, Buffer: 0, Buffer Size: 0, Element: 5
+[2020.05.04-13.14.12:042][312]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Game.Game:PersistentLevel.ModelComponent_154' invalid (48 verts, 0 indices).
+[2020.05.04-13.14.12:042][312]LogPhysics: Warning: Attempt to build physics data for /Game/Game.Game:PersistentLevel.ModelComponent_154.BodySetup_0 when we are unable to.
+[2020.05.04-13.14.18:186][489]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.14.19:128][545]Cmd: TRANSACTION UNDO
+[2020.05.04-13.14.19:128][545]LogEditorTransaction: Undo Move Actors
+[2020.05.04-13.14.25:887][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.14.26:029][756]Cmd: MODE GRID=0
+[2020.05.04-13.14.34:841][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.14.35:001][986]Cmd: MODE GRID=1
+[2020.05.04-13.15.07:970][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.15.18:074][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.15.18:218][100]Cmd: MODE GRID=0
+[2020.05.04-13.17.22:778][302]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.04-13.17.50:055][957]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.04-13.18.02:522][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.18.02:684][257]Cmd: MODE GRID=1
+[2020.05.04-13.18.36:952][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.19.20:820][739]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.19.21:372][739]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Game_Auto283C6C6814AE0F20D436174AB385B3688.tmp' to '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Autosaves/Game/Game_Auto2.umap'
+[2020.05.04-13.19.21:382][739]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game' took 0.506
+[2020.05.04-13.19.21:382][739]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.506
+[2020.05.04-13.19.34:583][ 71]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.04-13.19.46:675][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.19.46:836][373]Cmd: MODE GRID=0
+[2020.05.04-13.19.54:301][558]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.04-13.20.09:975][937]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.04-13.20.14:533][ 44]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.04-13.20.45:117][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.20.45:285][782]Cmd: MODE GRID=1
+[2020.05.04-13.21.06:031][992]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.21.10:751][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.21.25:767][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.22.01:476][598]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2020.05.04-13.22.01:832][598]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.05.04-13.22.01:832][598]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2020.05.04-13.22.01:940][598]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2020.05.04-13.22.02:070][598]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.04-13.22.02:070][598]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.04-13.22.02:070][598]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2020.05.04-13.22.02:362][598]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2020.05.04-13.22.02:867][598]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.05.04-13.22.02:903][598]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.05.04-13.22.02:938][598]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.05.04-13.22.02:983][598]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.05.04-13.22.03:074][598]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2020.05.04-13.22.03:146][598]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.05.04-13.22.03:203][598]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2020.05.04-13.22.03:443][598]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.05.04-13.22.04:659][601]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.05.04-13.22.19:898][ 27]LogShaderCompilers: Display: Shaders left to compile 188
+[2020.05.04-13.22.23:458][151]LogShaderCompilers: Display: Shaders left to compile 178
+[2020.05.04-13.22.23:881][172]LogShaderCompilers: Display: Shaders left to compile 168
+[2020.05.04-13.22.36:737][498]LogShaderCompilers: Display: Shaders left to compile 158
+[2020.05.04-13.22.40:793][598]LogShaderCompilers: Display: Shaders left to compile 148
+[2020.05.04-13.22.41:533][616]LogShaderCompilers: Display: Shaders left to compile 138
+[2020.05.04-13.22.51:450][761]LogShaderCompilers: Display: Shaders left to compile 128
+[2020.05.04-13.22.52:823][788]LogShaderCompilers: Display: Shaders left to compile 118
+[2020.05.04-13.22.55:734][849]LogShaderCompilers: Display: Shaders left to compile 108
+[2020.05.04-13.23.02:384][978]LogShaderCompilers: Display: Shaders left to compile 98
+[2020.05.04-13.23.03:425][999]LogShaderCompilers: Display: Shaders left to compile 88
+[2020.05.04-13.23.06:228][ 54]LogShaderCompilers: Display: Shaders left to compile 78
+[2020.05.04-13.23.11:556][149]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.23.15:284][242]LogShaderCompilers: Display: Shaders left to compile 68
+[2020.05.04-13.23.20:274][367]LogShaderCompilers: Display: Shaders left to compile 58
+[2020.05.04-13.23.23:620][554]LogShaderCompilers: Display: Shaders left to compile 48
+[2020.05.04-13.23.33:391][842]LogShaderCompilers: Display: Shaders left to compile 38
+[2020.05.04-13.23.35:987][925]LogShaderCompilers: Display: Shaders left to compile 28
+[2020.05.04-13.23.38:430][ 66]LogShaderCompilers: Display: Shaders left to compile 18
+[2020.05.04-13.23.51:663][467]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.05.04-13.24.35:381][200]LogSlate: Window 'Details' being destroyed
+[2020.05.04-13.24.35:387][200]LogSlate: Window 'Details' being destroyed
+[2020.05.04-13.25.01:197][931]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.25.09:484][419]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.04-13.25.14:541][544]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.26.18:578][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.26.19:702][667]Cmd: TRANSACTION UNDO
+[2020.05.04-13.26.19:702][667]LogEditorTransaction: Undo Scale Actors
+[2020.05.04-13.26.24:238][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.26.50:238][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.27.13:139][269]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2020.05.04-13.27.21:979][520]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.05.04-13.27.44:077][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.28.19:955][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.28.38:224][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.28.38:378][538]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.05.04-13.28.40:821][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.29.00:586][962]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush2)
+[2020.05.04-13.29.00:687][962]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.29.27:905][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.29.47:702][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.29.52:374][773]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.05.04-13.29.52:374][773]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2020.05.04-13.29.52:375][773]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.05.04-13.30.11:484][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.34.46:708][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.34.48:082][974]Cmd: TRANSACTION UNDO
+[2020.05.04-13.34.48:082][974]LogEditorTransaction: Undo Move Actors
+[2020.05.04-13.34.48:093][974]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.05.04-13.34.48:093][974]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2020.05.04-13.34.48:093][974]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.05.04-13.34.49:673][ 63]Cmd: TRANSACTION UNDO
+[2020.05.04-13.34.49:673][ 63]LogEditorTransaction: Undo Move Actors
+[2020.05.04-13.34.49:681][ 63]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.05.04-13.34.49:681][ 63]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2020.05.04-13.34.49:681][ 63]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.05.04-13.35.47:347][681]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.35.48:686][761]Cmd: TRANSACTION UNDO
+[2020.05.04-13.35.48:686][761]LogEditorTransaction: Undo Move Actors
+[2020.05.04-13.35.48:696][761]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2020.05.04-13.35.48:696][761]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2020.05.04-13.35.48:696][761]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.05.04-13.35.49:087][780]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.35.49:903][829]Cmd: TRANSACTION UNDO
+[2020.05.04-13.35.49:904][829]LogEditorTransaction: Undo Move Actors
+[2020.05.04-13.35.49:912][829]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2020.05.04-13.35.49:912][829]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2020.05.04-13.35.49:913][829]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.05.04-13.35.50:272][837]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.35.51:049][883]Cmd: TRANSACTION UNDO
+[2020.05.04-13.35.51:050][883]LogEditorTransaction: Undo Move Actors
+[2020.05.04-13.35.51:059][883]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2020.05.04-13.35.51:059][883]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2020.05.04-13.35.51:059][883]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.05.04-13.35.51:468][894]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.35.51:991][925]Cmd: TRANSACTION UNDO
+[2020.05.04-13.35.51:991][925]LogEditorTransaction: Undo Modifier [Edit]
+[2020.05.04-13.35.52:637][943]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.35.55:439][106]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.04-13.36.52:318][613]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.04-13.37.33:236][702]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.04-13.37.36:421][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.37.52:866][325]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.04-13.38.09:366][740]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.38.26:732][762]LogEditorViewport: Clicking Background
+[2020.05.04-13.38.27:898][831]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2020.05.04-13.38.33:804][177]LogEditorViewport: Clicking Background
+[2020.05.04-13.38.38:975][486]LogEditorViewport: Clicking Background
+[2020.05.04-13.38.39:540][519]LogEditorViewport: Clicking Background
+[2020.05.04-13.38.55:469][ 36]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.04-13.38.55:646][ 37]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2020.05.04-13.38.56:193][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.39.18:889][226]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.39.21:821][399]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2020.05.04-13.39.43:193][667]LogEditorViewport: Clicking Background
+[2020.05.04-13.39.43:989][714]LogEditorViewport: Clicking Background
+[2020.05.04-13.39.44:518][745]LogEditorViewport: Clicking Background
+[2020.05.04-13.39.47:564][927]LogEditorViewport: Clicking Background
+[2020.05.04-13.39.47:608][929]LogEditorViewport: Clicking Background
+[2020.05.04-13.39.48:158][962]LogEditorViewport: Clicking Background
+[2020.05.04-13.39.48:205][964]LogEditorViewport: Clicking Background
+[2020.05.04-13.39.49:340][ 32]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2020.05.04-13.39.52:353][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.39.56:256][443]LogEditorViewport: Clicking Background
+[2020.05.04-13.39.56:736][471]LogEditorViewport: Clicking Background
+[2020.05.04-13.39.56:797][474]LogEditorViewport: Clicking Background
+[2020.05.04-13.39.57:596][522]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2020.05.04-13.40.03:098][845]LogEditorViewport: Clicking Background
+[2020.05.04-13.40.03:664][878]LogEditorViewport: Clicking Background
+[2020.05.04-13.40.04:011][898]LogEditorViewport: Clicking Background
+[2020.05.04-13.40.04:328][917]LogEditorViewport: Clicking Background
+[2020.05.04-13.40.05:675][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.40.15:258][570]LogEditorViewport: Clicking Background
+[2020.05.04-13.40.32:755][606]LogEditorViewport: Clicking Background
+[2020.05.04-13.40.33:340][641]LogEditorViewport: Clicking Background
+[2020.05.04-13.40.34:071][684]LogEditorViewport: Clicking Background
+[2020.05.04-13.40.34:135][687]LogEditorViewport: Clicking Background
+[2020.05.04-13.40.34:536][711]LogEditorViewport: Clicking Background
+[2020.05.04-13.40.34:696][720]LogEditorViewport: Clicking Background
+[2020.05.04-13.40.35:196][750]LogEditorViewport: Clicking Background
+[2020.05.04-13.40.35:259][753]LogEditorViewport: Clicking Background
+[2020.05.04-13.40.35:543][770]LogEditorViewport: Clicking Background
+[2020.05.04-13.40.36:003][797]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2020.05.04-13.40.38:034][913]LogEditorViewport: Clicking Background
+[2020.05.04-13.40.39:141][978]LogEditorViewport: Clicking Background
+[2020.05.04-13.40.39:539][  1]LogEditorViewport: Clicking Background
+[2020.05.04-13.40.40:147][ 37]LogEditorViewport: Clicking Background
+[2020.05.04-13.40.40:235][ 41]LogEditorViewport: Clicking Background
+[2020.05.04-13.40.41:547][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.40.55:329][931]LogEditorViewport: Clicking Background
+[2020.05.04-13.40.57:928][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.41.48:371][551]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.04-13.41.52:081][645]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.04-13.41.52:116][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.04-13.41.52:848][645]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Game835B6ADF4C8F54B6AA2F6090CBE27645.tmp' to '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game.umap'
+[2020.05.04-13.41.52:906][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_BuiltData" FILE="../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game_BuiltData.uasset" SILENT=true
+[2020.05.04-13.41.52:968][645]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Saved/Game_BuiltData7C819B734F3E0BA234E15A8E412146D8.tmp' to '../../../../../../Users/Admin/Desktop/programowanie/game/gameJuliaKonarczak/Content/Game_BuiltData.uasset'
+[2020.05.04-13.41.54:293][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.04-13.41.54:639][683]LogSlate: Window 'Game - Level Blueprint Editor' being destroyed
+[2020.05.04-13.41.54:714][683]LogSlate: Window 'gameJuliaKonarczak - Unreal Editor' being destroyed
+[2020.05.04-13.41.54:715][683]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.04-13.41.55:127][684]Cmd: QUIT_EDITOR
+[2020.05.04-13.41.55:927][684]LogExit: Preparing to exit.
+[2020.05.04-13.41.56:468][684]LogExit: Editor shut down
+[2020.05.04-13.41.56:469][684]LogExit: Transaction tracking system shut down
+[2020.05.04-13.41.57:553][684]LogExit: Object subsystem successfully closed.
+[2020.05.04-13.41.57:587][684]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.04-13.41.57:645][684]LogD3D11RHI: Shutdown
+[2020.05.04-13.41.57:645][684]LogD3D11RHI: CleanupD3DDevice
+[2020.05.04-13.41.57:707][684]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.05.04-13.41.57:839][684]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2020.05.04-13.41.57:839][684]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2020.05.04-13.41.57:839][684]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2020.05.04-13.41.57:840][684]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2020.05.04-13.41.57:840][684]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2020.05.04-13.41.57:841][684]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2020.05.04-13.41.57:847][684]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2020.05.04-13.41.57:847][684]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2020.05.04-13.41.57:847][684]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2020.05.04-13.41.57:847][684]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2020.05.04-13.41.57:847][684]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2020.05.04-13.41.57:847][684]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2020.05.04-13.41.57:848][684]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2020.05.04-13.41.57:848][684]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2020.05.04-13.41.57:848][684]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2020.05.04-13.41.57:848][684]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2020.05.04-13.41.57:848][684]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2020.05.04-13.41.57:848][684]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2020.05.04-13.41.57:848][684]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2020.05.04-13.41.57:848][684]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2020.05.04-13.41.57:848][684]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2020.05.04-13.41.57:848][684]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2020.05.04-13.41.57:848][684]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2020.05.04-13.41.57:848][684]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2020.05.04-13.41.57:848][684]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2020.05.04-13.41.57:849][684]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2020.05.04-13.41.57:849][684]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2020.05.04-13.41.57:849][684]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2020.05.04-13.41.57:849][684]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2020.05.04-13.41.57:849][684]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2020.05.04-13.41.57:849][684]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2020.05.04-13.41.57:849][684]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2020.05.04-13.41.57:849][684]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2020.05.04-13.41.57:849][684]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2020.05.04-13.41.57:849][684]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2020.05.04-13.41.57:849][684]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2020.05.04-13.41.57:849][684]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2020.05.04-13.41.57:849][684]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2020.05.04-13.41.57:850][684]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2020.05.04-13.41.57:850][684]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2020.05.04-13.41.57:850][684]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2020.05.04-13.41.57:850][684]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2020.05.04-13.41.57:850][684]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2020.05.04-13.41.57:850][684]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2020.05.04-13.41.57:850][684]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2020.05.04-13.41.57:850][684]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2020.05.04-13.41.57:853][684]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2020.05.04-13.41.57:853][684]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2020.05.04-13.41.57:853][684]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2020.05.04-13.41.57:853][684]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2020.05.04-13.41.57:853][684]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2020.05.04-13.41.57:854][684]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2020.05.04-13.41.57:854][684]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2020.05.04-13.41.57:854][684]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2020.05.04-13.41.57:854][684]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2020.05.04-13.41.58:599][684]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2020.05.04-13.41.58:599][684]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2020.05.04-13.41.58:599][684]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2020.05.04-13.41.58:599][684]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2020.05.04-13.41.58:599][684]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2020.05.04-13.41.58:599][684]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2020.05.04-13.41.58:599][684]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2020.05.04-13.41.58:600][684]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2020.05.04-13.41.58:600][684]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2020.05.04-13.41.58:600][684]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2020.05.04-13.41.58:600][684]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2020.05.04-13.41.58:600][684]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2020.05.04-13.41.58:600][684]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2020.05.04-13.41.58:600][684]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2020.05.04-13.41.58:600][684]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2020.05.04-13.41.58:601][684]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2020.05.04-13.41.58:601][684]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2020.05.04-13.41.58:601][684]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2020.05.04-13.41.58:601][684]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2020.05.04-13.41.58:601][684]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2020.05.04-13.41.58:601][684]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2020.05.04-13.41.58:601][684]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2020.05.04-13.41.58:674][684]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2020.05.04-13.41.58:674][684]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2020.05.04-13.41.58:675][684]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2020.05.04-13.41.58:675][684]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2020.05.04-13.41.58:675][684]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2020.05.04-13.41.58:675][684]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2020.05.04-13.41.58:675][684]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2020.05.04-13.41.58:676][684]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2020.05.04-13.41.58:676][684]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2020.05.04-13.41.58:676][684]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2020.05.04-13.41.58:695][684]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2020.05.04-13.41.58:696][684]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2020.05.04-13.41.58:696][684]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2020.05.04-13.41.58:696][684]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2020.05.04-13.41.58:696][684]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2020.05.04-13.41.58:697][684]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2020.05.04-13.41.58:697][684]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2020.05.04-13.41.58:697][684]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2020.05.04-13.41.58:697][684]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2020.05.04-13.41.58:697][684]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2020.05.04-13.41.58:697][684]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2020.05.04-13.41.58:698][684]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2020.05.04-13.41.58:698][684]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2020.05.04-13.41.58:698][684]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2020.05.04-13.41.58:698][684]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2020.05.04-13.41.58:698][684]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2020.05.04-13.41.58:698][684]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2020.05.04-13.41.58:698][684]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2020.05.04-13.41.58:698][684]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2020.05.04-13.41.58:698][684]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2020.05.04-13.41.58:698][684]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2020.05.04-13.41.58:698][684]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2020.05.04-13.41.58:746][684]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2020.05.04-13.41.58:747][684]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2020.05.04-13.41.58:747][684]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2020.05.04-13.41.58:747][684]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2020.05.04-13.41.58:747][684]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2020.05.04-13.41.58:747][684]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2020.05.04-13.41.58:747][684]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2020.05.04-13.41.58:747][684]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2020.05.04-13.41.58:747][684]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2020.05.04-13.41.58:747][684]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2020.05.04-13.41.58:747][684]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2020.05.04-13.41.58:747][684]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2020.05.04-13.41.58:747][684]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2020.05.04-13.41.58:747][684]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2020.05.04-13.41.58:747][684]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2020.05.04-13.41.58:747][684]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2020.05.04-13.41.58:747][684]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2020.05.04-13.41.58:747][684]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2020.05.04-13.41.58:751][684]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.05.04-13.41.58:751][684]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.05.04-13.41.58:751][684]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.05.04-13.41.58:751][684]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.05.04-13.41.58:751][684]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.05.04-13.41.58:751][684]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.05.04-13.41.58:751][684]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.05.04-13.41.58:751][684]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.05.04-13.41.58:751][684]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.05.04-13.41.58:751][684]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.05.04-13.41.58:751][684]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2020.05.04-13.41.58:752][684]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2020.05.04-13.41.58:752][684]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.05.04-13.41.58:752][684]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.05.04-13.41.58:753][684]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.05.04-13.41.58:855][684]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.05.04-13.41.58:955][684]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.05.04-13.41.58:955][684]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.05.04-13.41.58:955][684]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.05.04-13.41.58:955][684]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.05.04-13.41.58:955][684]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.05.04-13.41.58:955][684]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.05.04-13.41.58:955][684]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.05.04-13.41.58:957][684]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.05.04-13.41.58:957][684]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.05.04-13.41.58:958][684]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.05.04-13.41.58:958][684]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.05.04-13.41.58:959][684]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.05.04-13.41.58:964][684]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.05.04-13.41.58:964][684]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.05.04-13.41.58:964][684]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.05.04-13.41.58:964][684]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.05.04-13.41.58:964][684]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.05.04-13.41.58:964][684]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2020.05.04-13.41.58:967][684]LogModuleManager: Shutting down and abandoning module Media (243)
+[2020.05.04-13.41.58:974][684]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2020.05.04-13.41.58:974][684]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2020.05.04-13.41.58:974][684]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2020.05.04-13.41.58:974][684]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2020.05.04-13.41.58:974][684]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2020.05.04-13.41.58:974][684]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2020.05.04-13.41.58:974][684]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2020.05.04-13.41.58:974][684]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2020.05.04-13.41.58:974][684]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2020.05.04-13.41.58:974][684]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2020.05.04-13.41.58:974][684]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2020.05.04-13.41.58:974][684]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2020.05.04-13.41.58:974][684]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2020.05.04-13.41.58:975][684]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2020.05.04-13.41.58:975][684]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2020.05.04-13.41.58:975][684]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2020.05.04-13.41.58:975][684]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2020.05.04-13.41.58:975][684]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2020.05.04-13.41.58:975][684]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2020.05.04-13.41.58:975][684]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.05.04-13.41.58:980][684]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2020.05.04-13.41.58:980][684]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2020.05.04-13.41.58:980][684]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2020.05.04-13.41.58:980][684]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2020.05.04-13.41.58:980][684]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2020.05.04-13.41.58:980][684]LogModuleManager: Shutting down and abandoning module Core (188)
+[2020.05.04-13.41.58:981][684]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2020.05.04-13.41.58:981][684]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.05.04-13.41.58:981][684]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.05.04-13.41.58:981][684]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.05.04-13.41.58:981][684]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.05.04-13.41.58:981][684]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2020.05.04-13.41.58:981][684]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.05.04-13.41.58:981][684]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2020.05.04-13.41.58:981][684]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2020.05.04-13.41.58:981][684]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2020.05.04-13.41.58:981][684]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2020.05.04-13.41.58:983][684]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2020.05.04-13.41.59:079][684]LogDerivedDataCache: Shutdown
+[2020.05.04-13.41.59:079][684]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2020.05.04-13.41.59:079][684]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2020.05.04-13.41.59:080][684]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2020.05.04-13.41.59:080][684]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2020.05.04-13.41.59:080][684]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2020.05.04-13.41.59:080][684]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2020.05.04-13.41.59:081][684]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2020.05.04-13.41.59:081][684]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2020.05.04-13.41.59:081][684]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2020.05.04-13.41.59:081][684]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2020.05.04-13.41.59:081][684]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2020.05.04-13.41.59:081][684]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2020.05.04-13.41.59:082][684]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2020.05.04-13.41.59:082][684]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2020.05.04-13.41.59:082][684]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2020.05.04-13.41.59:082][684]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2020.05.04-13.41.59:082][684]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2020.05.04-13.41.59:082][684]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2020.05.04-13.41.59:082][684]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2020.05.04-13.41.59:083][684]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2020.05.04-13.41.59:083][684]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2020.05.04-13.41.59:083][684]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.05.04-13.41.59:084][684]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2020.05.04-13.41.59:114][684]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.05.04-13.41.59:114][684]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.05.04-13.41.59:128][684]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2020.05.04-13.41.59:128][684]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2020.05.04-13.41.59:187][684]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2020.05.04-13.41.59:187][684]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2020.05.04-13.41.59:187][684]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2020.05.04-13.41.59:187][684]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2020.05.04-13.41.59:187][684]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2020.05.04-13.41.59:187][684]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2020.05.04-13.41.59:187][684]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2020.05.04-13.41.59:187][684]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2020.05.04-13.41.59:187][684]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2020.05.04-13.41.59:187][684]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2020.05.04-13.41.59:187][684]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2020.05.04-13.41.59:188][684]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.05.04-13.41.59:188][684]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2020.05.04-13.41.59:188][684]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2020.05.04-13.41.59:188][684]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2020.05.04-13.41.59:188][684]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2020.05.04-13.41.59:188][684]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2020.05.04-13.41.59:188][684]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2020.05.04-13.41.59:189][684]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2020.05.04-13.41.59:189][684]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2020.05.04-13.41.59:193][684]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2020.05.04-13.41.59:193][684]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.04-13.41.59:193][684]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5551B9A3-4926-56A0-DFFB-26B61AED150C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=d9b415524ce98541001e77b83d8638ee%7C014d2bdaf2504c12bbc0ab3a330e53d1%7C3e16f369-9dd4-4c64-89d6-f7c2930694c5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.05.04-13.41.59:224][684]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2020.05.04-13.41.59:226][684]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2020.05.04-13.41.59:226][684]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2020.05.04-13.41.59:226][684]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2020.05.04-13.41.59:226][684]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2020.05.04-13.41.59:226][684]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2020.05.04-13.41.59:226][684]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2020.05.04-13.41.59:226][684]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2020.05.04-13.41.59:226][684]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2020.05.04-13.41.59:226][684]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2020.05.04-13.41.59:242][684]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.04-13.41.59:242][684]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2020.05.04-13.41.59:243][684]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.05.04-13.41.59:243][684]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.05.04-13.41.59:244][684]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.05.04-13.41.59:244][684]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.05.04-13.41.59:245][684]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.05.04-13.41.59:245][684]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.05.04-13.41.59:245][684]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.05.04-13.41.59:248][684]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.05.04-13.41.59:248][684]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.05.04-13.41.59:248][684]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.05.04-13.41.59:248][684]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.05.04-13.41.59:248][684]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.05.04-13.41.59:248][684]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.05.04-13.41.59:248][684]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.05.04-13.41.59:248][684]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.05.04-13.41.59:248][684]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.05.04-13.41.59:248][684]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.05.04-13.41.59:248][684]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.05.04-13.41.59:257][684]LogExit: Exiting.
+[2020.05.04-13.41.59:275][684]Log file closed, 05/04/20 15:41:59
