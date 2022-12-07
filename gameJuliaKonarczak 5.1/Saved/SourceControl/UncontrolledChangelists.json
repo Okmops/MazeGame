@@ -6,10 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Repositories/MazeGame/gameJuliaKonarczak 5.1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Repositories/MazeGame/gameJuliaKonarczak 5.1/Content/StarterContent/Maps/Level1.umap",
-				"C:/Repositories/MazeGame/gameJuliaKonarczak 5.1/Content/StarterContent/Maze01/Box_Brush2_StaticMesh.uasset",
-				"C:/UE_5.1/Engine/Content/BasicShapes/Sphere.uasset",
-				"C:/UE_5.1/Engine/Content/BasicShapes/Cube.uasset"
+				"C:/Repositories/MazeGame/gameJuliaKonarczak 5.1/Content/StarterContent/Maps/Level1.umap"
 			]
 		}
 	]
